@@ -116,28 +116,62 @@ Younger patients who can not swallow the larger caplets may be prescribed this l
 If you present to a local doctor or pharmacist in Vietnam with severe fever and diarrhea, you are likely to obtain Keflex.
 
 #	Gearing up
-
+Like I mentioned in the introduction, you need to be familiar with your gear before you come. Don't buy a whole new kit to learn in Vietnam. You really need to focus more on your surroundings, which will make you a better photographer anyway. Practice your camera. Swap lenses quickly and cleanly. Maintain your power sources.
 
 ##	Your camera
+I started out in Vietnam in the year 2001 with a 25mm APS film camera.  Now I'm sporting 36 Megapixels.  The satisfaction is the same: capture memories and share with as many people back home as possible. The memories will last forever.
+
 ###	Batteries or dual batteries?
+On a daily basis, with a single battery camera, I need to take two batteries and swap them mid-day.  With a dual-battery vertical grip I can record all day easily. The dual-battery grips are sensitive to voltage difference. If the two batteries are not at the exact same charge level, the camera assumes they are counterfiet and will shut down in order to prevent starting a fire.  When loading the camera with freshly-charged batteries, make sure the camera will function, otherwise, you will need to place each battery back into the charger for a while to ensure they are equal. Therefor it is best to use batteries paired by age. I use a silver Sharpie to mark my battery sets with letter pairs like "A" + "B".
+
 ####	Compatibility with cameras
+I have found that third-party batteries will work for a certain period, then loose their ability to hold a charge. Like your camera, the batteries should be from the Original Equipment Manufacturer. If you shoot Canon, buy Canon batteries. Don't be fooled into thinking you are saving money buy purchasing multiple knock-off cheapos. It's quite the opposite. A pair of good authentic batteries will outlast knock-offs five or six times over.
+
 ####	Charging your batteries
+Charge your batteries completely and daily.  Bring an extra pair in case lightning hits the power line down the road and there's no electricity for a couple of days.
+
 ###	Phone camera
+Bring your phone camera. They are actually not too bad but you will need to keep the lenses clean with your shirt tails or a microfiber cloth. Your phone may be able to do things your DSLR can not, and it's good to have a variety of tools available while out-and-about. If your camera goes down or somehow goes missing, you'll be so glad the phone was in your pocket; if your trip is once-in-a-lifetime, even more so.
+
 ####	Panoramas
+Yes, you can stich really high resolution panoramas with a set of RAW camera-taken images, but some phone cameras have panoramic capabilities built-in to the software. Practice this the phone panorama technique, in case you find yourself in an immersive environment that screams for a long pan.
+
 ####	Social Media
+Often you will want to record some images on the phone to share socially.  Unless you are not into sharing, I recommend starting up something like a Facebook profile, so you can at least share some of the more striking scenes you are likely to visit.  I also share the camera pics once I've developed them at home with RawTherapee or whatever.
+
 ##	Choosing lenses
+If you have a camera that supports interchangeable lenses I suggest bringing three lenses with you:
+
 ###	Ultra-wide angle
+When your subject is too close, or you want more envirnment, you need to use an ultra-wide. There will be times you are standing in front of something you want to photograph, but logistically you can't caputre from further away, due to a variety of factors such as roadway traffic, or strying from your group.
+
 ####	10-18mm zoom
+My choise for ultra-wide is the inexepensive Canon EFS 10-18mm IS (image stabilization).  It is usable day and night, and goes from let's see everything, to a fairly wide angle 18mm, with only slight distortion. Yes I would like to be able to afford the 11-22 super lens, but it would be too heavy for me to haul around. The 10-18 costs a tenth of the price and the images are still pleasant and enjoyable. Tools like RawTherapee can assist with curing any distortion issues you encounter.
+
 ###	Wide angle
+Your wide-angle lens should be light and fun. The less glass the better: fewer dielectric transitions lead to sharper images. Every piece of glass gives you two more transistions, and designs can compensate with various geometries and coatings, but that it adding weight and money to your rig.
+
 ####	24 / 40mm pancakes
+For APS-C format I recommend a 24mm pancake lens. It's only about an inch thick and does macro as well as it does nighttime photos.  A similarly wide and short lens for full-frame Canons is the EF 40mm pancake. They are tiny but really a dream to use.
+
 ###	Telephoto
-####	70-300mm zoom
+To capture close up detail and candid photography, I have to recommend going to 300mm.  They are longer than usual lenses which may turn a few heads, but the satisfaction can't be beat.
+
+####	28-300mm zoom
+I stopped eating cheeseburgers for a few months and spent the money on a red-striped 28-300L with still and panning Image Stabilization. 300mm handheld is not very useful without stabilization or very high ISO with fast shutter.  With a stabilizer, the image quality will be much better. From a fairly wide 28mm it has a lot of range, and the quality is nearly reference.
+
 ##	Accessing electricity
+
+
 ###	240V/50Hz compatibility
 ##	Data storage
 ###	Extra memory
 ###	External storage devices
 #	Over there
+## Politics
+*Does not exist here.* Topics that are up for discussion include: the economy, weather, food, entertainment, but conversing about local or national politics is just not a thing here. Except for US politics; you will be suprised at the love. Last time I was here some Europeans gave me heat for who we elected president which was good for a hearty laugh. *Be a diplomat, not a pundit!*
+## Religion
+*Vietnam is diverse.* You are welcome here and your presence is appreciated and respected no matter what you are, if anything. Depending where you are, do not be shocked to find a Church, Temple, and Mosque coexisting on the same street corner.
 ##	The internet
 ###	Availability of cell network
 ###	WiFi ubiquity
