@@ -2,7 +2,7 @@
 date: 2023-08-06T11:28:42-00:00 
 
 title: "How to photograph Vietnam"
-sub-title: "Experiences with lessons learned"
+sub-title: "Area expertise with lessons learned"
 
 lede-img: "nam-lede.jpg"
 lede-style: 'background-color: : rgb(20,35,52); background-size: cover;'
