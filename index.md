@@ -161,19 +161,35 @@ To capture close up detail and candid photography, I have to recommend going to 
 I stopped eating cheeseburgers for a few months and spent the money on a red-striped 28-300L with still and panning Image Stabilization. 300mm handheld is not very useful without stabilization or very high ISO with fast shutter.  With a stabilizer, the image quality will be much better. From a fairly wide 28mm it has a lot of range, and the quality is nearly reference.
 
 ##	Accessing electricity
-
+Outlets in Vietnam accept both the two-pronged and two-bladed types of plugs. Ground is not availble fron the sockets, and I wouldn't count on the fixture being grounded at all either. It is a higher voltage than we use in the US, so when you plug something you will hear and see a pretty snappy little spark. Just do it quickly and you and your equipment will be fine.
 
 ###	240V/50Hz compatibility
+I don't own anything that won't work both here and there: if you read the fine print on most of your power adapters and chargers, you will see they are nearly all compatible with both 120 and 240 Volts at 50 or 60Hz.  The first time I brought one of those international adapters, but quickly found it completely unnessesary.
+
 ##	Data storage
+A) Don't forget to put good memory in the camera. Knock off memroy is notorious for corrupting images. I like the brand names like SanDisk, Kingston, and even store brands like Onn are working well for me.  I am super wary of Amazon specials in this regard, and you would be too if your photography journey is running into the thousands of dollars.  Why pinch a penny on what to you is critical infrastructure? It is a risk not worth taking.
+
 ###	Extra memory
+You can buy a Terabyte card and leave it in for the whole trip. My worry is that if the one card goes bad, I lost the entire trip. Better then to bring along several 128GB cards.  I have a hard time taking more than 100GB of photos per day, and if one goes down, I still have the other 9.
+
 ###	External storage devices
+This is one area I have yet to explore. I've been thinking about having some sort of device that you plug an SD card into and save everything to disk. I belive they exist but until I find one in my price range, I just bring a terabyte worth of cards.
+
 #	Over there
+Get ready! Hop aboard your flight and remember to max out your luggage space with gifts of chocolate, tequila, and other specialties of your home to pass out to your generous hosts.
+
 ## Politics
 *Does not exist here.* Topics that are up for discussion include: the economy, weather, food, entertainment, but conversing about local or national politics is just not a thing here. Except for US politics; you will be suprised at the love. Last time I was here some Europeans gave me heat for who we elected president which was good for a hearty laugh. *Be a diplomat, not a pundit!*
+
 ## Religion
 *Vietnam is diverse.* You are welcome here and your presence is appreciated and respected no matter what you are, if anything. Depending where you are, do not be shocked to find a Church, Temple, and Mosque coexisting on the same street corner.
+
 ##	The internet
+Yes, Vietnam is online.  When I first came, you could access the internet on a pentium with CRT in stinky cafes crowded with video game addicts. Loading mail.yahoo.com took three-and-one-half minutes to a half-hour. Logging in was a whole other ordeal, and then you got to your email. How frustrating that time was.
+
 ###	Availability of cell network
+You will see many more tall cell phone towers than you do at home. You will also see people driving motorcycles with their faces glued to phones. It's a realitively new phenomenon that has taken the country by storm, so be preapared.  Sim cards can be purchased everywhere and are typically 
+
 ###	WiFi ubiquity
 ##	Taboo
 ###	Do not photograph the police
