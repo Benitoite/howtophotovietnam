@@ -9,7 +9,7 @@ lede-style: 'background-color: : rgb(20,35,52); background-size: cover;'
 lede-attribution: "Vietnam thing, by Richard E Barber <a href='https://creativecommons.org/licenses/by-nc/4.0/' class='cc' title='Licensed under Creative Commons Attribution-NonCommercial 4.0 International License'>cbn</a>"
 
 author: "Richard E Barber (HIRAM)"
-author-img: "field-e.png"
+author-img: "field-e.PNG"
 author-url: "https://patreon.com/Benitoite"
 author-twitter: ""
 author-bio: "Richard Barber (https://github.com/Benitoite) keeps fairly busy producing signed and notarized universal MacOS application bundles for RawTherapee, LuminanceHDR, Filmulator, HDRMerge and other great free photography software.  If you love free software, consider joining his Patreon, https://patreon.com/Benitoite"
