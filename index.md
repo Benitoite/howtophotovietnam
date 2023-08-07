@@ -19,7 +19,7 @@ layout: article.hbt
 #nodiscuss: true
 
 ---
-*Travelling overseas* was instilled in me by my parents who afforded me the opportunity to go on my 8th and 9th grade field trips to Washington DC and Europe. To me, the things I will write about are fairly instinctual; however for many the idea of preparing and attending such a vast journey into a mysterious land is completely unfathomable. Weather or not you will ever travel away from home as far as Vietnam, I hope you will find some inspiration here to attend to the task of photographing new and wonderful things.
+*Travelling overseas* is an ideal nstilled in me by my parents who afforded me the opportunity to go on my 8th and 9th grade field trips to Washington DC and Europe. To me, the things I will write about are fairly instinctual; however for many the idea of preparing and attending such a vast journey into a mysterious land is completely unfathomable. Weather or not you will ever travel away from home as far as Vietnam, I hope you will find some inspiration here to attend to the task of photographing new and wonderful things.
 
 #	Preparation
 *The first order of business* is to prepare. In the year before your trip, you are finalizing and familiarizing yourself with the photography equipment you will bring. Several practice sessions will be required near home during which you will study the operating modes that will produce the photographs you desire, be they daytime landscapes, portraiture, or nighttime street life. All types of photography are needed; people want to see all aspects of the places you visit, and your style and methods will add to the viewers' knowledge of the world both near and afar.
