@@ -96,7 +96,7 @@ If you a prone to car or sea sickness, consider taking a tube of Dramamine with 
 ####	Headache and joint pain
 You may be exposed to painfully long car rides or develop migraines from the sodium content of some foods here. Use an over-the-counter remedy for these moments, as directed.
 
-#####	Acetaminophen (Tylenol, Paracetamol)
+#####	Acetaminophen (Tylenol, Paracetamol, Vadol)
 This remedy is called Paracetamol in Vietnam and it is molecularly the same as what we call Acetaminophen, or Tylenol. Used as directed.
 
 ######	500mg Rapid Release Capsules
