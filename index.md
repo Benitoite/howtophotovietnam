@@ -169,7 +169,7 @@ Outlets in Vietnam accept both the two-pronged and two-bladed types of plugs. Ea
 I don't own anything that won't work both here and there: if you read the fine print on most of your power adapters and chargers, you will see they are nearly all compatible with both 120 and 240 Volts at 50 or 60Hz.  The first time I brought one of those international adapters, but quickly found it completely unnecessary.
 
 ##	Data storage
-A) Don't forget to put good memory in the camera. Knockoff memory is notorious for corrupting images. I like brand names like SanDisk, Kingston, and even store brands like Onn are working well for me.  I am super wary of Amazon specials in this regard, and you would be too if your photography journey is running into the thousands of dollars.  Why pinch a penny on what to you is critical infrastructure? It is a risk not worth taking.
+Don't forget to put good memory in the camera. Knockoff memory is notorious for corrupting images. I like brand names like SanDisk, Kingston, and even store brands like Onn are working well for me.  I am super wary of Amazon specials in this regard, and you would be too if your photography journey is running into the thousands of dollars.  Why pinch a penny on what to you is critical infrastructure? It is a risk not worth taking.
 
 ###	Extra memory
 You can buy a Terabyte card and leave it in for the whole trip. My worry is that if the one card goes bad, I lost the entire trip. Therefore it is better to bring along several 128GB cards.  I have a hard time taking more than 100GB of photos per day, and if one goes down, I still have the other 9.
