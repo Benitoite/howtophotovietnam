@@ -151,7 +151,7 @@ When your subject is too close, or you want more environment, you need to use an
 My choice for ultra-wide is the inexepensive Canon EFS 10-18mm IS (image stabilization).  It is usable day and night and goes from let's see everything, to a fairly wide angle of 18mm, with only slight distortion. Yes, I would like to be able to afford the 11-22 super lens, but it would be too heavy for me to haul around. The 10-18 costs a tenth of the price and the images are still pleasant and enjoyable. Tools like RawTherapee can assist with curing any distortion issues you encounter.
 
 ###	Wide angle
-Your wide-angle lens should be light and fun. The less glass the better: fewer dielectric transitions lead to sharper images. Every piece of glass gives you two more transitions, and designs can compensate with various geometries and coatings, but that it adding weight and money to your rig.
+Your wide-angle lens should be light and fun. The less glass the better: fewer dielectric transitions lead to sharper images. Every piece of glass gives you two more transitions, and designs can compensate with various geometries and coatings, but that is just adding weight and money to your rig.
 
 ####	24 / 40mm pancakes
 For APS-C format I recommend a 24mm pancake lens. It's only about an inch thick and does macro as well as it does nighttime photos.  A similarly wide and short lens for full-frame Canons is the EF 40mm pancake. They are tiny but really a dream to use.
