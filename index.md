@@ -216,10 +216,17 @@ One very important thing that my daughter is reminding me right now is the diffe
 As a historian, you may be interested to see those things which are considered tourist traps- the places which have been visisted and photographed the most may not excite you however. Your guide may not realize that you are not interested in all the war museums. Be sure to communicate early on in the process, otherwise you will bring back the same memories everyone else is. You really don't need to crawl through the Cu Chi tunnels to feel the terror of the early 1970's; you don't need to pull the trigger on their machine gun, or take that same picture of the covered viper pit. Perhaps you would prefer to see truly amazing and photogenic things just a few miles away like the absolutely glorious Buddhist temple complex atop Nui Ba Den or the visually and sonically stunning Cao Dai Temple in Tay Ninh. In short, don't be the cause of your own disappointment. Learn about where you *really* want to photograph. 
 
 ####	The bus and taxis
-
+Vietnam has Uber now, it's an app called Grab. You can click a button and a non-random person will swing by on scooter to take you anywhere you want. You can call taxis and get an air-conditioned ride. Public transit buses are not very comfortable in comparison.
 
 ####	Driving
-###	Dealing with precipitation and humidity
-###	Taking the photographs
+It is possible to drive in Vietnam with a temporary permit issued by your local police station. For a motorcycle permit, you will have to do the figure-eight test for them. Is it necessary?  If you are driving around where traffic is complex, you may be more likely to make a mistake and be hailed to pull over, officially. **YOU DO NOT WANT TO BE PULLED OVER.** I recommend not operating any vehicles, or if you do, only operate in the countryside. In the city there are copious rules about time periods where certain directions of traffic is disallowed on particular motoways, and it confuses even the local professional drivers. If you need to Go-Pro around, do it the right way and get your permit. Otherwise just go along for the ride.
 
+###	Dealing with precipitation and humidity
+There is a rainy season during our US summer, and a dry season during our winter time. It is always hot and humid. As your lens transitions between air-conditioning and the outside environment, the outer element will fog over. This is normal and ok. I carry a lens pen and microfiber cloths to help the lens stay dry while warming up. After a couple of minutes the water will disappear and you can begin taking pitcures. No need to panic, and absolutely no need to put a useless image-degrading UV-1A over your lens.
+
+### Pest control
+I recommend a combination of 25% DEET (OFF! Deep Forest) and another insect repellant like Picaridin (OFF! Clean Feel).  32% DEET lotion also works well here.  15% DEET (OFF! Familycare) will not be strong enough for you. Sleep in a insecticidal mosquito net if possible. Remember to reapply repellents before hitting the sack, and pay close attention to your ankles.  I have had to sit in the hospital to get my bug bites drained, so really *don't skip this step*.
+
+###	Taking the photographs
+Click click click click click!
 
