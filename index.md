@@ -188,18 +188,36 @@ Get ready! Hop aboard your flight and remember to max out your luggage space wit
 Yes, Vietnam is online.  When I first came, you could access the internet on a pentium with CRT in stinky cafes crowded with video game addicts. Loading mail.yahoo.com took three-and-one-half minutes to a half-hour. Logging in was a whole other ordeal, and then you got to your email. How frustrating that time was.
 
 ###	Availability of cell network
-You will see many more tall cell phone towers than you do at home. You will also see people driving motorcycles with their faces glued to phones. It's a realitively new phenomenon that has taken the country by storm, so be preapared.  Sim cards can be purchased everywhere and are typically 
+You will see many more tall cell phone towers than you do at home. You will also see people driving motorcycles with their faces glued to phones. It's a realitively new phenomenon that has taken the country by storm, so be preapared.  SIM cards can be purchased everywhere and are typically purchased for the data plan.  Older phones will require the Vietnamese sim cards to work on the network, however my iPhone 13 can talk right through to AT&T's international plan.
 
 ###	WiFi ubiquity
+Most restaurants will have free wifi.  The passowrd is often printed on a small plaque near the cash register, or you can just ask any staff for the "pass wifi".  As I travel, often I will be taking photos in between and at meals, so bouncing here and there from wifi to wifi is definitely a viable solution to buying SIM cards, or activating your international data plan.
+
 ##	Taboo
+It's not just about you! This applies to everyone for security reasons: there's really only a couple of things you mustn't attempt photographically that you will need to think about:
+
 ###	Do not photograph the police
+
 ###	Do not photograph inside a department store
+
 ##	Downtime
+You want to be on the go the whole time, but in reality things move at a different pace here. Be patient and polite at all times; use your time wisely.
+
 ###	Be prepared
+For example, when I have a few hours to spare in between going out, I am working on this article. Writing is a great way to express the feelings and desires you experience in Vietnam. Or, sit down with your camera and cull out the blurry shots. Walk next door and say hello to people- you will be suprised at the hospitality. Go for a walk; get caught in the rain. When the downpour starts, people will just run into the nearest house porch and wait it out with the residents. Study your maps; plan your next excursion.  Photograph some bricks or tiles, anything that looks mildly interesting- this can help break the monotony of downtime.
+
 ###	Fallback plans
+Sometimes we can not control our environment, and a destination may become inexplicably unreachable; bridges close for repairs, venues can be shuttered without warning. Use your ingenuity and discover things about your surroundings anyway. The more you bring to the table in terms of knowledge about the area, the more flexibility you will have in your travel plans. A patient, polite, and diplomatic overseas traveller will easily turn the worst-case-scenario into an adventure worth remembering.  Be that kind of traveller.
+
 ##	Touring
+One very important thing that my daughter is reminding me right now is the different bathrooms here. Some places will have a real nice facility not too different than what you have at home. In other places there will just be a hole in the ground and a bucket of water. We learn to survive no matter the comfort level. Some of us will want to prepare for these eventualities, especially the further away from western-style accomodations you travel. That means you may want to pack TP, etc.
+
 ###	Destinations and journeys
+As a historian, you may be interested to see those things which are considered tourist traps- the places which have been visisted and photographed the most may not excite you however. Your guide may not realize that you are not interested in all the war museums. Be sure to communicate early on in the process, otherwise you will bring back the same memories everyone else is. You really don't need to crawl through the Cu Chi tunnels to feel the terror of the early 1970's; you don't need to pull the trigger on their machine gun, or take that same picture of the covered viper pit. Perhaps you would prefer to see truly amazing and photogenic things just a few miles away like the absolutely glorious Buddhist temple complex atop Nui Ba Den or the visually and sonically stunning Cao Dai Temple in Tay Ninh. In short, don't be the cause of your own disappointment. Learn about where you *really* want to photograph. 
+
 ####	The bus and taxis
+
+
 ####	Driving
 ###	Dealing with precipitation and humidity
 ###	Taking the photographs
