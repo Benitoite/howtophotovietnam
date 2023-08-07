@@ -57,6 +57,8 @@ Once you have an itinerary, you will need a guide. Vietnam is as beautiful as it
 ####	Avoiding scams
 Vietnam is developing. Progress is forward and the citizens of Vietnam must work to keep up with a rapidly changing society. There are so many opportunities to get really good deals that it is easy to be taken advantage of. Vietnam is indeed a country of law and order but abidance with law is not universally understood or practiced, unfortunately. Rely on your guide at every step to interact locally- this allows you to relax and come to know the Vietnamese as trustworthy neighbors. Don't be offended or let down if a guide recommends against a particular course of action. Your guide is there to provide you with a diplomatic and fair experience that is beneficial to both the locals and tourists alike.
 
+<hr>
+
 > DISCLAIMER: The information provided in the following section is for educational purposes only, and does not substitute for professional medical advice. Always consult with your doctor/pharmacist/nurse-practitioner team when dealing with any medical situation you may endure.
 
 ##	Immunizations
