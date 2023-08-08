@@ -167,6 +167,8 @@ Ben Thanh Market MMXVI, by Richard E Barber
 </figcaption>
 </figure>
 
+<hr>
+
 > DISCLAIMER: The information provided in the following section is for educational purposes only, and does not substitute for professional medical advice. Always consult with your doctor/pharmacist/nurse-practitioner team when dealing with any medical situation you may endure.
 
 ##	Your medicine
