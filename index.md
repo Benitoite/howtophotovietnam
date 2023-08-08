@@ -363,7 +363,7 @@ You can buy a Terabyte card and leave it in for the whole trip. My worry is that
 This is one area I have yet to explore. I've been thinking about having some sort of device that you plug an SD card into and save everything to disk. I believe they exist but until I find one in my price range, I just bring a terabyte worth of cards.
 
 <figure>
-<img src="speaker.jpg" height="75%" alt="Lottery Ticket Hawking by Richard E Barber">
+<img src="speaker.jpg" width="75%" alt="Lottery Ticket Hawking by Richard E Barber">
 <figcaption>
 Lottery Ticket Hawker, by Richard E Barber
 </figcaption>
