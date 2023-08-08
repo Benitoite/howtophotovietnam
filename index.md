@@ -23,7 +23,7 @@ layout: article.hbt
 *Travelling overseas* is an ideal instilled in me by my parents who afforded me the opportunity to go on my 8th and 9th grade field trips to Washington DC and Europe. To me, the things I will write about are fairly instinctual; however, for many the idea of preparing and attending such a vast journey into a mysterious land is completely unfathomable. Whether or not you will ever travel away from home as far as Vietnam, I hope you will find some inspiration here to attend to the task of photographing new and wonderful things.
 
 <figure>
-<img src="abovesaigon6.jpg" alt="Above Saigon by Richard E Barber">
+<img src="abovesaigon6.jpg" width="67%" alt="Above Saigon by Richard E Barber">
 <figcaption>
 Above Saigon, by Richard E Barber
 </figcaption>
@@ -94,7 +94,7 @@ Bún Quậy đặc sản Phú Quốc (Stirred noodles, Phu Quoc Island specialty
 *A visa* to enter Vietnam is an official page pasted into your passport book by the Vietnamese consular authorities. You will be sending your Passport to a local Consulate or Embassy of Vietnam. I have received visa documentation from Vietnamese authorities in both San Francisco and Mexico City. There is an official procedure that can be learned online, however if you use a travel agent this process will be completely taken care of for you. You just need to relinquish your passport. The travel agent will know which agency to send your passport to for the quickest turnaround. 
 
 <figure>
-<img src="majong.JPG" alt="Mat Chuoc game set by Richard E Barber">
+<img src="majong.JPG" width="75%" alt="Mat Chuoc game set by Richard E Barber">
 <figcaption>
 <a href="https://en.wikipedia.org/wiki/Mahjong">Mạt chược</a> game set, by Richard E Barber
 </figcaption>
@@ -492,14 +492,12 @@ Click click click click click!
 <hr>
 
 <figure>
-<img src="gourami.JPG" alt="Gourami fish in Cu Chi by Richard E Barber">
+<img src="gourami.JPG" width="67%" alt="Gourami fish in Cu Chi by Richard E Barber">
 <figcaption>
 Cá bầu (giant gourami fish), by Richard E Barber
 </figcaption>
 </figure>
-
-
-<br><br><hr>
+---
 
 > *The mistake people usually make when dealing with people of another culture is that they forget that they are dealing with human beings who have the same needs as themselves. If a person pays so much attention to the differences in the culture of other people, they will have difficulty recognizing all the similarities. If a person looks first to the common needs of other individuals, accidental differences of culture will tend to take care of themselves. If a person finds differences in behavior as something threatening to himself and his own security, he will find it very difficult to find common needs and desires among peoples of other cultures.*
 >
