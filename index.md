@@ -401,9 +401,9 @@ You will see many more tall cell phone towers than you do at home. You will also
 Most restaurants will have free wifi.  The password is often printed on a small plaque near the cash register, or you can just ask any staff for the "pass wifi".  As I travel, often I will be taking photos in between and at meals, so bouncing here and there from wifi to wifi is definitely a viable solution to buying SIM cards or activating your international data plan.
 
 <figure>
-<img src="sauce.jpg" alt="Sauce by Richard E Barber">
+<img src="sauce.jpg" alt="Chili Peppers by Richard E Barber">
 <figcaption>
-Sauce, by Richard E Barber
+Chili Peppers, by Richard E Barber
 </figcaption>
 </figure>
 
