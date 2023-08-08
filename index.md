@@ -209,7 +209,7 @@ If you a prone to car or sea sickness, consider taking a tube of Dramamine with 
 <figure>
 <img src="end.JPG" width="50%" alt="Ha Tien the city at the end of the world by Richard E Barber">
 <figcaption>
-[Thành phố Hà Tiên](https://en.wikipedia.org/wiki/Hà_Tiên), the city at the end of the world, by Richard E Barber
+<a href="https://en.wikipedia.org/wiki/Hà_Tiên">Thành phố Hà Tiên<a>, the city at the end of the world, by Richard E Barber
 </figcaption>
 </figure>
 
