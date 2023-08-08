@@ -96,7 +96,7 @@ Bún Quậy đặc sản Phú Quốc (Stirred noodles, Phu Quoc Island specialty
 <figure>
 <img src="majong.JPG" alt="Mat Chuoc game set by Richard E Barber">
 <figcaption>
-Mạt chược game set, by Richard E Barber
+[Mạt chược](https://en.wikipedia.org/wiki/Mahjong) game set, by Richard E Barber
 </figcaption>
 </figure>
 
