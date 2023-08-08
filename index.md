@@ -93,9 +93,9 @@ Bun Quay, by Richard E Barber
 A visa to enter Vietnam is an official page pasted into your passport book by the Vietnamese consular authorities. You will be sending your Passport to a local Consulate or Embassy of Vietnam. I have received visa documentation from Vietnamese authorities in both San Francisco and Mexico City. There is an official procedure that can be learned online, however if you use a travel agent this process will be completely taken care of for you. You just need to relinquish your passport. The travel agent will know which agency to send your passport to for the quickest turnaround. 
 
 <figure>
-<img src="abovesaigon6.jpg" alt="Above Saigon by Richard E Barber">
+<img src="majong.JPG" alt="Mat Chuoc game set by Richard E Barber">
 <figcaption>
-Above Saigon, by Richard E Barber
+Mạt chược game set, by Richard E Barber
 </figcaption>
 </figure>
 
@@ -103,9 +103,9 @@ Above Saigon, by Richard E Barber
 I highly recommend seeking the assistance of a Travel Agent when going to Vietnam. The intricacies of navigating the Vietnamese system could take you years to learn, and travel agents know the ropes. It's not just about getting a flight. Anyone can do that. It's about getting the best flight at the best price and having all your ducks in a row for that 30-second time period you will spend at the immigration desk. The value of professional travel assistance is worth at least twice what you can expect to pay.
 
 <figure>
-<img src="abovesaigon6.jpg" alt="Above Saigon by Richard E Barber">
+<img src="guide.JPG" alt="Tour Guide in Ben Tre by Richard E Barber">
 <figcaption>
-Above Saigon, by Richard E Barber
+Tour Guide in Bến Tre, by Richard E Barber
 </figcaption>
 </figure>
 
@@ -388,9 +388,9 @@ Cha Phanxisco, by Richard E Barber
 Yes, Vietnam is online.  When I first came, you could access the internet on a Pentium and CRT monitor in stinky cafes crowded with video game addicts. Loading mail.yahoo.com took three-and-one-half minutes to a half-hour. Logging in was a whole other ordeal, and then you got to your email. How frustrating that time was. If you are on FiOs at home and your router supports it, set up a Virtual Private Network (VPN) or simply subscribe to a VPN app on your device. That way you will be able to access the same network resources you have at home. Private IPv6 settings may interfere with your VPN settings resulting in service denials, so turn that feature off if possible.
 
 <figure>
-<img src="wires.jpg" alt="Telecom cabling by Richard E Barber">
+<img src="river.JPG" alt="Riverside life by Richard E Barber">
 <figcaption>
-Telecom cabling, by Richard E Barber
+Riverside life, by Richard E Barber
 </figcaption>
 </figure>
 
@@ -485,4 +485,12 @@ Sunset in Cu Chi, by Richard E Barber
 
 ###	Taking the photographs
 Click click click click click!
-<hr.
+<hr>
+
+<figure>
+<img src="gourami.JPG" alt="Gourami fish in Cu Chi by Richard E Barber">
+<figcaption>
+Gourami fish, by Richard E Barber
+</figcaption>
+</figure>
+
