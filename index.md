@@ -51,7 +51,7 @@ Turtle Island MMXXIII, by Richard E Barber
 *I began my study* of Vietnamese in earnest using the 1967 US Department of State Foreign Service Institute's Vietnamese Basic Course, a two-volume manual and cassette tape kit that takes you through imitation, repetition, and dialogue in basic Vietnamese. After a few hours, you will be able to greet your Vietnamese friends in a convincing tone. Very few things will delight a native Vietnamese person more than hearing their language from the mouth of a foreigner. As I mentioned, Vietnamese is tonal. The Latin alphabet used in Vietnam was introduced by European monks whose knowledge of tonal notation extended to the cheironomic (written hand symbols) of Gregorian Chant. It is not enough to learn the written language; rather it is learned and practiced as is a musical song with melodic ups and downs, leaps and dips, and bends and stops. The Basic Course was designed as such: Listening and Repeating. From this course of study grew the professional version known as the Pimsleur Method that inspired our wonderful modern language courses like [Rosetta Stone](https://www.rosettastone.com/buy/learn-vietnamese/) and [Duolingo](https://www.duolingo.com/course/vi/en/Learn-Vietnamese).
 
 <figure>
-<img src="saigontraffic2.jpg" alt="Saigon Traffic 2002 by Richard E Barber">
+<img src="saigontraffic2.jpg" width="75%" alt="Saigon Traffic 2002 by Richard E Barber">
 <figcaption>
 Saigon Traffic 2002, by Richard E Barber
 </figcaption>
@@ -152,7 +152,7 @@ The view atop Cafe 17, by Richard E Barber
 *The travel nurse* will want to know if you intend to visit a farm or rural area. Unless you are sure you won't be leaving urban Saigon, you can consider your travel to include a visit to a farm, etc. Ho Chi Minh City includes both urban Saigon and vast rubber plantations, endless rice fields soaking in standing water full of breeding mosquitos carrying microbes your system will not recognize.
 
 <figure>
-<img src="buffalo.jpg" alt="Water Buffalo Herd by Richard E Barber">
+<img src="buffalo.jpg" width="67%" alt="Water Buffalo Herd by Richard E Barber">
 <figcaption>
 Đàn trâu nước (water buffalo herd), by Richard E Barber
 </figcaption>
@@ -256,7 +256,7 @@ If you present to a local doctor or pharmacist in Vietnam with severe fever and 
 *I started out* in Vietnam in the year 2001 with a 25mm [APS film](https://thedarkroom.com/film-formats/aps-film/) camera.  Now I'm sporting 36 Megapixels.  The satisfaction is the same: capture memories and share them with as many people back home as possible. The memories will last forever.
 
 <figure>
-<img src="pano1.JPG" alt="Panoramic Truckstop by Richard E Barber">
+<img src="pano1.JPG" width="85%" alt="Panoramic Truckstop by Richard E Barber">
 <figcaption>
 Tân Huê Viên Truckstop, Sóc Trăng, by Richard E Barber
 </figcaption>
@@ -432,7 +432,7 @@ Kiến lửa (fire ants), by Richard E Barber
 *For example*, when I have a few hours to spare in between going out, I am working on this article. Writing is a great way to express the feelings and desires you experience in Vietnam. Or, sit down with your camera and cull out the blurry shots. Walk next door and say hello to people- you will be surprised at the hospitality. Go for a walk; get caught in the rain. When the downpour starts, people will just run to the nearest house porch and wait it out with the residents. Study your maps; plan your next excursion.  Photograph some bricks or tiles, anything that looks mildly interesting- this can help break the monotony of downtime.
 
 <figure>
-<img src="gecko.jpg" alt="Gecko by Richard E Barber">
+<img src="gecko.jpg" width="75%" alt="Gecko by Richard E Barber">
 <figcaption>
 Con tắc kè (Tokay gecko), by Richard E Barber
 </figcaption>
@@ -445,7 +445,7 @@ Con tắc kè (Tokay gecko), by Richard E Barber
 *One very important* thing that my daughter is reminding me of right now is the different bathrooms here. Some places will have a really nice facilities not too different than what you have at home. In other places, there will just be a hole in the ground and a bucket of water. We learn to survive no matter the comfort level. Some of us will want to prepare for these eventualities, especially the further away from western-style accommodations you travel. That means you may want to pack TP, etc.
 
 <figure>
-<img src="pavers.jpg" alt="Pavingstones by Richard E Barber">
+<img src="pavers.jpg" width="90%" alt="Pavingstones by Richard E Barber">
 <figcaption>
 Đá lát đường (pavingstones), by Richard E Barber
 </figcaption>
