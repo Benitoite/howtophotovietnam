@@ -197,7 +197,7 @@ These include:
 - Bismuth subsalicylate  (Pepto-Bismol, Kaopectate, pink bismuth stomach relief)
 This usually comes as a pink liquid but is also available in tablet and chewable form for people like me who need it but can't handle the liquid's texture.
 
-- Famotidine (Pepcid AC, Famogast, H~2~ receptor antagonist acid reducer)
+- Famotidine (Pepcid AC, Famogast, H<sub>2</sub> receptor antagonist acid reducer)
 In the past, this was prescribed to me for acid reflux and heartburn but is now widely available over the counter. It can be taken in prophylaxis before enjoying a particularly challenging or spicy meal.
 
 - Dimenhydrinate (Dramamine, Gravol, Gastrovol, traveler’s antihistimine)
