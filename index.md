@@ -48,9 +48,9 @@ Turtle Island MMXXIII, by Richard E Barber
 *I began my study* of Vietnamese in earnest using the 1967 US Department of State Foreign Service Institute's Vietnamese Basic Course, a two-volume manual and cassette tape kit that takes you through imitation, repetition, and dialogue in basic Vietnamese. After a few hours, you will be able to greet your Vietnamese friends in a convincing tone. Very few things will delight a native Vietnamese person more than hearing their language from the mouth of a foreigner. As I mentioned, Vietnamese is tonal. The Latin alphabet used in Vietnam was introduced by European monks whose knowledge of tonal notation extended to the cheironomic (written hand symbols) of Gregorian Chant. It is not enough to learn the written language; rather it is learned and practiced as is a musical song with melodic ups and downs, leaps and dips, and bends and stops. The Basic Course was designed as such: Listening and Repeating. From this course of study grew the professional version known as the Pimsleur Method that inspired our wonderful modern language courses like Rosetta Stone and Duolingo.
 
 <figure>
-<img src="abovesaigon6.jpg" alt="Above Saigon by Richard E Barber">
+<img src="saigontraffic2.jpg" alt="Saigon Traffic 2002 by Richard E Barber">
 <figcaption>
-Above Saigon, by Richard E Barber
+Saigon Traffic 2002, by Richard E Barber
 </figcaption>
 </figure>
 
@@ -58,9 +58,9 @@ Above Saigon, by Richard E Barber
 *Also* in the year in advance, you are planning your trip. Where will you go? What do you want to see and photograph? Are you a historian? Vietnam will offer you a unique perspective that you may not have previously thought about. Do you love people? Vietnam will astound you with her unabashed beauty. Landscapes? You will be amazed at the tropical variety. Streets? Urban centers will be alive for you day and night. Vietnam is there for you but only if you prepare yourself.
 
 <figure>
-<img src="abovesaigon6.jpg" alt="Above Saigon by Richard E Barber">
+<img src="signroad8.jpg" alt="Road Sign 8 by Richard E Barber">
 <figcaption>
-Above Saigon, by Richard E Barber
+Road Sign XIII, by Richard E Barber
 </figcaption>
 </figure>
 
@@ -71,9 +71,9 @@ Above Saigon, by Richard E Barber
 You are a photographer with a color printer. With a little attention to detail, you can easily generate a higher quality photo than the stand-on-the-line-and-look-forward Polaroid print you can buy at Walgreens for $10. You won't need any filters or processing, just the in-camera jpeg. You won't even need software. US travelers can use a new [official tool](https://tsg.phototool.state.gov/photo) to generate the required dimensioned photo.
 
 <figure>
-<img src="abovesaigon6.jpg" alt="Above Saigon by Richard E Barber">
+<img src="hotpot.jpg" alt="Hot Pot by Richard E Barber">
 <figcaption>
-Above Saigon VI, by Richard E Barber
+Hot Pot, by Richard E Barber
 </figcaption>
 </figure>
 
@@ -201,7 +201,7 @@ In the past, this was prescribed to me for acid reflux and heartburn but is now 
 If you a prone to car or sea sickness, consider taking a tube of Dramamine with you. It can be taken if you are the passenger but may make you too drowsy to drive.
 
 <figure>
-<img src="abovesaigon6.jpg" alt="Above Saigon by Richard E Barber">
+<img src="shoe.jpg" alt="Above Saigon by Richard E Barber">
 <figcaption>
 Above Saigon, by Richard E Barber
 </figcaption>
@@ -220,9 +220,9 @@ Great for sudden migraine when used as directed.
 If you have back or joint pain, these are stronger but take 30 minutes to work.
 
 <figure>
-<img src="abovesaigon6.jpg" alt="Above Saigon by Richard E Barber">
+<img src="cuchisunrise3.jpg" alt="Cu Chi Subnrise 3 by Richard E Barber">
 <figcaption>
-Above Saigon, by Richard E Barber
+Cu Chi Sunrise III, by Richard E Barber
 </figcaption>
 </figure>
 
@@ -237,9 +237,9 @@ Younger patients who can not swallow the larger caplets may be prescribed this l
 If you present to a local doctor or pharmacist in Vietnam with severe fever and diarrhea, you are likely to obtain Keflex.
 
 <figure>
-<img src="abovesaigon6.jpg" alt="Above Saigon by Richard E Barber">
+<img src="shoe.jpg" alt="iPhone6 by Richard E Barber">
 <figcaption>
-Above Saigon, by Richard E Barber
+iPhone shoe, by Richard E Barber
 </figcaption>
 </figure>
 
@@ -250,9 +250,9 @@ As I mentioned in the introduction, you need to be familiar with your gear befor
 I started out in Vietnam in the year 2001 with a 25mm APS film camera.  Now I'm sporting 36 Megapixels.  The satisfaction is the same: capture memories and share them with as many people back home as possible. The memories will last forever.
 
 <figure>
-<img src="abovesaigon6.jpg" alt="Above Saigon by Richard E Barber">
+<img src="pano1.jpg" alt="Panoramic Truckstop by Richard E Barber">
 <figcaption>
-Above Saigon, by Richard E Barber
+Panoramic Truckstop, by Richard E Barber
 </figcaption>
 </figure>
 
@@ -373,9 +373,9 @@ Get ready! Hop aboard your flight and remember to max out your luggage space wit
 *Does not exist here.* Topics that are up for discussion include: the economy, weather, food, and entertainment, but conversing about local or national politics is just not a thing here. Except for US politics; you will be surprised at the love. Last time I was here some Europeans gave me heat for who we elected president which was good for a hearty laugh. *Be a diplomat, not a pundit!*
 
 <figure>
-<img src="horntower.jpg" alt="Above Saigon by Richard E Barber">
+<img src="chaphanxisco.jpg" alt="Cha Phanxisco by Richard E Barber">
 <figcaption>
-Horn Tower, by Richard E Barber
+Cha Phanxisco, by Richard E Barber
 </figcaption>
 </figure>
 
