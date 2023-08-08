@@ -35,7 +35,7 @@ Above Saigon, by Richard E Barber
 <figure>
 <img src="hondoimoi.jpg" width="50%" alt="Turtle Island 2023 by Richard E Barber">
 <figcaption>
-Turtle Island MMXXIII, by Richard E Barber
+Hòn Đồi Mồi (Turtle Island MMXXIII), by Richard E Barber
 </figcaption>
 </figure>
 
