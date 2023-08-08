@@ -373,7 +373,7 @@ Get ready! Hop aboard your flight and remember to max out your luggage space wit
 *Does not exist here.* Topics that are up for discussion include: the economy, weather, food, and entertainment, but conversing about local or national politics is just not a thing here. Except for US politics; you will be surprised at the love. Last time I was here some Europeans gave me heat for who we elected president which was good for a hearty laugh. *Be a diplomat, not a pundit!*
 
 <figure>
-<img src="chaphanxisco.jpg" alt="Cha Phanxisco by Richard E Barber">
+<img src="chaphanxisco.JPG" alt="Cha Phanxisco by Richard E Barber">
 <figcaption>
 Cha Phanxisco, by Richard E Barber
 </figcaption>
