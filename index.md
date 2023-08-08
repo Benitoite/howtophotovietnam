@@ -271,7 +271,7 @@ Tân Huê Viên Truckstop, Sóc Trăng, by Richard E Barber
 <figure>
 <img src="xatananhoi2.jpg" width="50%" alt="Tan An Hoi Commune Office by Richard E Barber">
 <figcaption>
-Hội đồng nhân dân xã Tân An Hội 2002 (The people's committee of Tan An Hoi commune), by Richard E Barber
+Hội đồng nhân dân xã Tân An Hội, ủy ban nhân dân, 2002 (The people's council of Tan An Hoi commune, people's committee), by Richard E Barber
 </figcaption>
 </figure>
 
