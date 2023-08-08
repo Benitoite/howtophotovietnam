@@ -451,7 +451,7 @@ Pavingstones, by Richard E Barber
 As a historian, you may be interested to see those things which are considered tourist traps- the places which have been visited and photographed the most may not excite you however. Your guide may not realize that you are not interested in all the war museums. Be sure to communicate early on in the process, otherwise, you will bring back the same memories everyone else does. You really don't need to crawl through the Cu Chi tunnels to feel the terror of the early 1970s; you don't need to pull the trigger on their machine gun or take that same picture of the covered viper pit. Perhaps you would prefer to see truly amazing and photogenic things just a few miles away like the absolutely glorious Buddhist temple complex atop Nui Ba Den or the visually and sonically stunning Cao Dai Temple in Tay Ninh. In short, don't be the cause of your own disappointment. Learn about where you *really* want to photograph. 
 
 <figure>
-<img src="pong.jpg" alt="Fish Pond by Richard E Barber">
+<img src="pond.jpg" alt="Fish Pond by Richard E Barber">
 <figcaption>
 A Fish Pond, by Richard E Barber
 </figcaption>
