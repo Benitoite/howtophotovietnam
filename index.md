@@ -276,7 +276,7 @@ Charge your batteries completely and daily.  Bring an extra pair in case lightni
 Bring your phone camera. They are actually not too bad but you will need to keep the lenses clean with your shirt tails or a microfiber cloth. Your phone may be able to do things your DSLR can not, and it's good to have a variety of tools available while out and about. If your camera goes down or somehow goes missing, you'll be so glad the phone was in your pocket; if your trip is a once-in-a-lifetime, even more so.
 
 <figure>
-<img src="cuchiefields.jpg" alt="Cu Chi Fields by Richard E Barber">
+<img src="cuchifields.jpg" alt="Cu Chi Fields by Richard E Barber">
 <figcaption>
 Cu Chi Fields, by Richard E Barber
 </figcaption>
