@@ -201,7 +201,7 @@ In the past, this was prescribed to me for acid reflux and heartburn but is now 
 If you a prone to car or sea sickness, consider taking a tube of Dramamine with you. It can be taken if you are the passenger but may make you too drowsy to drive.
 
 <figure>
-<img src="shoe.jpg" alt="Above Saigon by Richard E Barber">
+<img src="shoe.JPG" alt="Above Saigon by Richard E Barber">
 <figcaption>
 Above Saigon, by Richard E Barber
 </figcaption>
@@ -220,7 +220,7 @@ Great for sudden migraine when used as directed.
 If you have back or joint pain, these are stronger but take 30 minutes to work.
 
 <figure>
-<img src="cuchisunrise3.jpg" alt="Cu Chi Subnrise 3 by Richard E Barber">
+<img src="cuchisunrise3.JPG" alt="Cu Chi Subnrise 3 by Richard E Barber">
 <figcaption>
 Cu Chi Sunrise III, by Richard E Barber
 </figcaption>
@@ -237,7 +237,7 @@ Younger patients who can not swallow the larger caplets may be prescribed this l
 If you present to a local doctor or pharmacist in Vietnam with severe fever and diarrhea, you are likely to obtain Keflex.
 
 <figure>
-<img src="shoe.jpg" alt="iPhone6 by Richard E Barber">
+<img src="shoe.JPG" alt="iPhone6 by Richard E Barber">
 <figcaption>
 iPhone shoe, by Richard E Barber
 </figcaption>
