@@ -60,9 +60,9 @@ Saigon Traffic 2002, by Richard E Barber
 *Also* in the year in advance, you are planning your trip. Where will you go? What do you want to see and photograph? Are you a historian? Vietnam will offer you a unique perspective that you may not have previously thought about. Do you love people? Vietnam will astound you with her unabashed beauty. Landscapes? You will be amazed at the tropical variety. Streets? Urban centers will be alive for you day and night. Vietnam is there for you but only if you prepare yourself.
 
 <figure>
-<img src="signroad8.jpg" width="50%" alt="Road Sign 8 by Richard E Barber">
+<img src="signroad8.jpg" width="50%" alt="Road Sign 8, 2002 by Richard E Barber">
 <figcaption>
-Road Sign XIII, by Richard E Barber
+Road Sign XIII (2002), by Richard E Barber
 </figcaption>
 </figure>
 
