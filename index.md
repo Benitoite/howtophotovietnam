@@ -346,9 +346,9 @@ Outlets in Vietnam accept both the two-pronged and two-bladed types of plugs. Ea
 I don't own anything that won't work both here and there: if you read the fine print on most of your power adapters and chargers, you will see they are nearly all compatible with both 120 and 240 Volts at 50 or 60Hz.  The first time I brought one of those international adapters, but quickly found it completely unnecessary.
 
 <figure>
-<img src="sunrise.jpg" alt="Cu Chi Sunrise by Richard E Barber">
+<img src="sunrise.jpg" alt="Cu Chi Sunset A by Richard E Barber">
 <figcaption>
-Cu Chi Sunrise, by Richard E Barber
+Cu Chi Sunset A, by Richard E Barber
 </figcaption>
 </figure>
 
