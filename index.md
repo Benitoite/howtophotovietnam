@@ -20,11 +20,7 @@ layout: article.hbt
 
 ---
 
-<style>
-h1 {text-align: center;}
-p {text-align: center;}
-div {text-align: center;}
-</style>
+<style>h1 {text-align: center;} p {text-align: center;} div {text-align: center;}</style>
 
 *Travelling overseas* is an ideal instilled in me by my parents who afforded me the opportunity to go on my 8th and 9th grade field trips to Washington DC and Europe. To me, the things I will write about are fairly instinctual; however, for many the idea of preparing and attending such a vast journey into a mysterious land is completely unfathomable. Whether or not you will ever travel away from home as far as Vietnam, I hope you will find some inspiration here to attend to the task of photographing new and wonderful things.
 
