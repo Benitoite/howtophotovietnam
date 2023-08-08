@@ -169,7 +169,7 @@ Ben Thanh Market MMXVI, by Richard E Barber
 
 <hr>
 
-> DISCLAIMER: The information provided in the following section is for educational purposes only, and does not substitute for professional medical advice. Always consult with your doctor/pharmacist/nurse-practitioner team when dealing with any medical situation you may endure.
+> <mark>DISCLAIMER:</mark> The information provided in the following section is for educational purposes only, and does not substitute for professional medical advice. Always consult with your doctor/pharmacist/nurse-practitioner team when dealing with any medical situation you may endure.
 
 ##	Your medicine
 The travel nurse will ask if you would like to be prescribed a strong anti-diarrheal medication. Do not refuse this prescription, even if you think you have the strongest stomach in the world. The food will be different than what your body is familiar with and it will cause you some discomfort at times. Your luggage must include some over-the-counter remedies to be used if only to allow you to have a slightly more pleasant experience. However at the first sign of fever or severe discomfort, that prescription medicine will absolutely save your life.
