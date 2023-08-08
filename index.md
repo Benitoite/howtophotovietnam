@@ -315,7 +315,7 @@ Ben Thanh Market, by Richard E Barber
 My choice for ultra-wide is the inexepensive Canon EFS 10-18mm IS (image stabilization).  It is usable day and night and goes from let's see everything, to a fairly wide angle of 18mm, with only slight distortion. Yes, I would like to be able to afford the 11-22 super lens, but it would be too heavy for me to haul around. The 10-18 costs a tenth of the price and the images are still pleasant and enjoyable. Tools like RawTherapee can assist with curing any distortion issues you encounter.
 
 <figure>
-<img src="eggs.jpg" alt="Cooking Eggs by Richard E Barber">
+<img src="eggs.jpg" height="67%" alt="Cooking Eggs by Richard E Barber">
 <figcaption>
 Cooking Eggs, by Richard E Barber
 </figcaption>
@@ -363,7 +363,7 @@ You can buy a Terabyte card and leave it in for the whole trip. My worry is that
 This is one area I have yet to explore. I've been thinking about having some sort of device that you plug an SD card into and save everything to disk. I believe they exist but until I find one in my price range, I just bring a terabyte worth of cards.
 
 <figure>
-<img src="speaker.jpg" alt="Lottery Ticket Hawking by Richard E Barber">
+<img src="speaker.jpg" height="75%" alt="Lottery Ticket Hawking by Richard E Barber">
 <figcaption>
 Lottery Ticket Hawker, by Richard E Barber
 </figcaption>
