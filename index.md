@@ -197,7 +197,7 @@ These include:
 - Bismuth subsalicylate  (Pepto-Bismol, Kaopectate, pink bismuth stomach relief)
 This usually comes as a pink liquid but is also available in tablet and chewable form for people like me who need it but can't handle the liquid's texture.
 
-- Famotidine (Pepcid AC, Famogast, H2 receptor antagonist acid reducer)
+- Famotidine (Pepcid AC, Famogast, H~2~ receptor antagonist acid reducer)
 In the past, this was prescribed to me for acid reflux and heartburn but is now widely available over the counter. It can be taken in prophylaxis before enjoying a particularly challenging or spicy meal.
 
 - Dimenhydrinate (Dramamine, Gravol, Gastrovol, traveler’s antihistimine)
@@ -216,10 +216,10 @@ You may be exposed to painfully long car rides or develop migraines from the sod
 - Acetaminophen (Tylenol, Paracetamol, Vadol)
 This remedy is called Paracetamol in Vietnam and it is molecularly the same as what we call Acetaminophen, or Tylenol. Used as directed.
 
- - 500mg Rapid Release Capsules
+>> 500mg Rapid Release Capsules
 Great for sudden migraine when used as directed.
 
- - 625 Arthritis Caplets (8-hour pain relief)
+>> 625 Arthritis Caplets (8-hour pain relief)
 If you have back or joint pain, these are stronger but take 30 minutes to work.
 
 <figure>
