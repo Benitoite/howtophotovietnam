@@ -194,14 +194,13 @@ Cambodian Border, by Richard E Barber
 ####	Stomach ailments
 Generally speaking, the US has different names commercially and generically for most medications. There are a few key remedies that I recommend bringing with you at your and your physician's discretion.
 These include:
-
-o Bismuth subsalicylate  (Pepto-Bismol, Kaopectate, pink bismuth stomach relief)
+- Bismuth subsalicylate  (Pepto-Bismol, Kaopectate, pink bismuth stomach relief)
 This usually comes as a pink liquid but is also available in tablet and chewable form for people like me who need it but can't handle the liquid's texture.
 
-o Famotidine (Pepcid AC, Famogast, H2 receptor antagonist acid reducer)
+- Famotidine (Pepcid AC, Famogast, H2 receptor antagonist acid reducer)
 In the past, this was prescribed to me for acid reflux and heartburn but is now widely available over the counter. It can be taken in prophylaxis before enjoying a particularly challenging or spicy meal.
 
-o Dimenhydrinate (Dramamine, Gravol, Gastrovol, traveler’s antihistimine)
+- Dimenhydrinate (Dramamine, Gravol, Gastrovol, traveler’s antihistimine)
 If you a prone to car or sea sickness, consider taking a tube of Dramamine with you. It can be taken if you are the passenger but may make you too drowsy to drive.
 
 <figure>
@@ -214,13 +213,13 @@ Hà Tiên, the city at the end of the world, by Richard E Barber
 ####	Headache and joint pain
 You may be exposed to painfully long car rides or develop migraines from the sodium content of some foods here. Use an over-the-counter remedy for these moments, as directed.
 
-o Acetaminophen (Tylenol, Paracetamol, Vadol)
+- Acetaminophen (Tylenol, Paracetamol, Vadol)
 This remedy is called Paracetamol in Vietnam and it is molecularly the same as what we call Acetaminophen, or Tylenol. Used as directed.
 
-oo	500mg Rapid Release Capsules
+ - 500mg Rapid Release Capsules
 Great for sudden migraine when used as directed.
 
-oo 625 Arthritis Caplets (8-hour pain relief)
+ - 625 Arthritis Caplets (8-hour pain relief)
 If you have back or joint pain, these are stronger but take 30 minutes to work.
 
 <figure>
@@ -231,13 +230,13 @@ Cu Chi Sunrise III, by Richard E Barber
 </figure>
 
 ###	Curing your illness by prescription
-o ℞ Azithromycin (Zithromax Z-pack, Zmax, TRI-PAC, broad-spectrum macrolide antibiotic)
+- ℞ Azithromycin (Zithromax Z-pack, Zmax, TRI-PAC, broad-spectrum macrolide antibiotic)
 At home, your doctor is most likely to prescribe a 3 or 5-day course of Azithromycin for severe diarrhea and fever. This is your doctor potentially keeping you out of the hospital- don't refuse it.  You do not want to go to the hospital.
 
-o	℞ Amoxicillin (Penicillin antibiotic)
+-	℞ Amoxicillin (Penicillin antibiotic)
 Younger patients who can not swallow the larger caplets may be prescribed this liquid medication.
 
-o ℞ Cephalexin (Keflex, cephalosporin antibiotic)
+- ℞ Cephalexin (Keflex, cephalosporin antibiotic)
 If you present to a local doctor or pharmacist in Vietnam with severe fever and diarrhea, you are likely to obtain Keflex.
 
 <figure>
