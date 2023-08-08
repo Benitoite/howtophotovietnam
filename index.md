@@ -119,7 +119,7 @@ Tour Guide "Cô Mỹ" of Bến Tre, by Richard E Barber
 <figure>
 <img src="latex-3.jpg" width="67%" alt="Rubber Trees 3 by Richard E Barber">
 <figcaption>
-Rubber Trees III, by Richard E Barber
+Rubber Trees III, by Richard E Barber (<a href="https://discuss.pixls.us/t/rubber-plantation-river-lotus/38789"><mark>Edit this image in PlayRaw!</mark></a>)
 </figcaption>
 </figure>
 
@@ -144,7 +144,7 @@ The view atop Cafe 17, by Richard E Barber
 <figure>
 <img src="lillypad.jpg" width="73%" alt="River Lotus by Richard E Barber">
 <figcaption>
-*Nelumbo nucifera* river lotus, by Richard E Barber
+*Nelumbo nucifera* river lotus, by Richard E Barber (<a href="https://discuss.pixls.us/t/rubber-plantation-river-lotus/38789"><mark>Edit this image in PlayRaw!</mark></a>)
 </figcaption>
 </figure>
 
