@@ -163,7 +163,7 @@ The urban areas may be too stressful for you. I enjoy brief visits to Saigon, bu
 <figure>
 <img src="market.jpg" alt="Ben Thanh Market 2016 by Richard E Barber">
 <figcaption>
-Ben Thanh Market, by Richard E Barber
+Ben Thanh Market MMXVI, by Richard E Barber
 </figcaption>
 </figure>
 
@@ -263,9 +263,9 @@ On a daily basis, with a single-battery camera, I need to take two batteries and
 I have found that third-party batteries will work for a certain period, then lose their ability to hold a charge. Like your camera, the batteries should be from the Original Equipment Manufacturer. If you shoot Canon, buy Canon batteries. Don't be fooled into thinking you are saving money by purchasing multiple knockoff cheapos. It's quite the opposite. A pair of good authentic batteries will outlast knock-offs five or six times over.
 
 <figure>
-<img src="abovesaigon6.jpg" alt="Above Saigon by Richard E Barber">
+<img src="xatananhoi2.jpg" alt="Tan An Hoi Commune Office by Richard E Barber">
 <figcaption>
-Above Saigon, by Richard E Barber
+Tan An Hoi Commune Office, by Richard E Barber
 </figcaption>
 </figure>
 
@@ -276,9 +276,9 @@ Charge your batteries completely and daily.  Bring an extra pair in case lightni
 Bring your phone camera. They are actually not too bad but you will need to keep the lenses clean with your shirt tails or a microfiber cloth. Your phone may be able to do things your DSLR can not, and it's good to have a variety of tools available while out and about. If your camera goes down or somehow goes missing, you'll be so glad the phone was in your pocket; if your trip is a once-in-a-lifetime, even more so.
 
 <figure>
-<img src="abovesaigon6.jpg" alt="Above Saigon by Richard E Barber">
+<img src="cuchiefields.jpg" alt="Cu Chi Fields by Richard E Barber">
 <figcaption>
-Above Saigon, by Richard E Barber
+Cu Chi Fields, by Richard E Barber
 </figcaption>
 </figure>
 
@@ -289,9 +289,9 @@ Yes, you can stitch really high-resolution panoramas with a set of RAW camera-ta
 Often you will want to record some images on the phone to share socially.  Unless you are not into sharing, I recommend starting up something like a Facebook profile, so you can at least share some of the more striking scenes you are likely to visit.  I also share the camera pics once I've developed them at home with RawTherapee or whatever.
 
 <figure>
-<img src="abovesaigon6.jpg" alt="Above Saigon by Richard E Barber">
+<img src="vietnam_insulaters.jpg" alt="Insulators by Richard E Barber">
 <figcaption>
-Above Saigon, by Richard E Barber
+Insulators, by Richard E Barber
 </figcaption>
 </figure>
 
@@ -302,9 +302,9 @@ If you have a camera that supports interchangeable lenses I suggest bringing thr
 When your subject is too close, or you want more environment, you need to use an ultra-wide. There will be times you are standing in front of something you want to photograph, but logistically you can't capture from further away, due to a variety of factors such as roadway traffic, or straying from your group.
 
 <figure>
-<img src="abovesaigon6.jpg" alt="Above Saigon by Richard E Barber">
+<img src="benthanh.jpg" alt="Ben Thanh Market by Richard E Barber">
 <figcaption>
-Above Saigon, by Richard E Barber
+Ben Thanh Market, by Richard E Barber
 </figcaption>
 </figure>
 
@@ -312,9 +312,9 @@ Above Saigon, by Richard E Barber
 My choice for ultra-wide is the inexepensive Canon EFS 10-18mm IS (image stabilization).  It is usable day and night and goes from let's see everything, to a fairly wide angle of 18mm, with only slight distortion. Yes, I would like to be able to afford the 11-22 super lens, but it would be too heavy for me to haul around. The 10-18 costs a tenth of the price and the images are still pleasant and enjoyable. Tools like RawTherapee can assist with curing any distortion issues you encounter.
 
 <figure>
-<img src="abovesaigon6.jpg" alt="Above Saigon by Richard E Barber">
+<img src="eggs.jpg" alt="Cooking Eggs by Richard E Barber">
 <figcaption>
-Above Saigon, by Richard E Barber
+Cooking Eggs, by Richard E Barber
 </figcaption>
 </figure>
 
@@ -328,9 +328,9 @@ For APS-C format I recommend a 24mm pancake lens. It's only about an inch thick 
 To capture close-up detail and candid photography, I have to recommend going to 300mm.  They are longer than usual lenses which may turn a few heads, but the satisfaction can't be beaten.
 
 <figure>
-<img src="abovesaigon6.jpg" alt="Above Saigon by Richard E Barber">
+<img src="kem.jpg" alt="Ice Cream Dessert by Richard E Barber">
 <figcaption>
-Above Saigon, by Richard E Barber
+Ice Cream Dessert, by Richard E Barber
 </figcaption>
 </figure>
 
@@ -462,9 +462,9 @@ Vietnam has Uber now, it's an app called Grab. You can click a button and a non-
 It is possible to drive in Vietnam with a temporary permit issued by your local police station. For a motorcycle permit, you will have to do the figure-eight test for them. Is it necessary?  If you are driving around where traffic is complex, you may be more likely to make a mistake and be hailed to pull over, officially. **YOU DO NOT WANT TO BE PULLED OVER.** I recommend not operating any vehicles, or if you do, only operate in the countryside. In the city, there are copious rules about time periods where certain directions of traffic are disallowed on particular motorways, and it confuses even the local professional drivers. If you need to Go-Pro around, do it the right way and get your permit. Otherwise, just go along for the ride.
 
 <figure>
-<img src="eggs.jpg" alt="Cooking Eggs by Richard E Barber">
+<img src="familybike.jpg" alt="Family Bike by Richard E Barber">
 <figcaption>
-Cooking Eggs, by Richard E Barber
+Family Bike, by Richard E Barber
 </figcaption>
 </figure>
 
