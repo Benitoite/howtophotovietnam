@@ -315,7 +315,7 @@ Ben Thanh Market, by Richard E Barber
 My choice for ultra-wide is the inexepensive Canon EFS 10-18mm IS (image stabilization).  It is usable day and night and goes from let's see everything, to a fairly wide angle of 18mm, with only slight distortion. Yes, I would like to be able to afford the 11-22 super lens, but it would be too heavy for me to haul around. The 10-18 costs a tenth of the price and the images are still pleasant and enjoyable. Tools like RawTherapee can assist with curing any distortion issues you encounter.
 
 <figure>
-<img src="eggs.jpg" height="67%" alt="Cooking Eggs by Richard E Barber">
+<img src="eggs.jpg" width="67%" alt="Cooking Eggs by Richard E Barber">
 <figcaption>
 Cooking Eggs, by Richard E Barber
 </figcaption>
