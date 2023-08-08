@@ -19,6 +19,13 @@ layout: article.hbt
 #nodiscuss: true
 
 ---
+
+<style>
+h1 {text-align: center;}
+p {text-align: center;}
+div {text-align: center;}
+</style>
+
 *Travelling overseas* is an ideal instilled in me by my parents who afforded me the opportunity to go on my 8th and 9th grade field trips to Washington DC and Europe. To me, the things I will write about are fairly instinctual; however, for many the idea of preparing and attending such a vast journey into a mysterious land is completely unfathomable. Whether or not you will ever travel away from home as far as Vietnam, I hope you will find some inspiration here to attend to the task of photographing new and wonderful things.
 
 <figure>
@@ -504,4 +511,4 @@ Cá bầu (giant gourami fish), by Richard E Barber
 >
 > __Reflections on Vietnamese Culture__, circa 1987, United States Dept. of State, US Embassy Manila, Accession #[C05845477](https://foia.state.gov/DOCUMENTS/OctNov2016/F-2014-15073W7/DOC_0C05845477/C05845477.pdf)
 <br>
-<center>NNNN<br>####</center>
+<div>NNNN<br>####</div>
