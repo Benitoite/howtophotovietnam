@@ -505,4 +505,5 @@ Cá bầu (giant gourami fish), by Richard E Barber
 >
 > __Reflections on Vietnamese Culture__, circa 1987, United States Dept. of State, US Embassy Manila, Accession #[C05845477](https://foia.state.gov/DOCUMENTS/OctNov2016/F-2014-15073W7/DOC_0C05845477/C05845477.pdf)
 <br>
-<p style="text-align: center;">NNNN<br>####</p>
+<p style="text-align: center;">NNNN</p>
+<p style="text-align: center;">####</p>
