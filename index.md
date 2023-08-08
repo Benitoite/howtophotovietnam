@@ -4,9 +4,9 @@ date: 2023-08-06T11:28:42-00:00
 title: "How to photograph Vietnam"
 sub-title: "Area expertise with lessons learned"
 
-lede-img: "nam-lede.jpg"
+lede-img: "hatienbay.jpg"
 lede-style: 'background-color: : rgb(20,35,52); background-size: cover;'
-lede-attribution: "Vietnam thing, by Richard E Barber <a href='https://creativecommons.org/licenses/by-nc/4.0/' class='cc' title='Licensed under Creative Commons Attribution-NonCommercial 4.0 International License'>cbn</a>"
+lede-attribution: "Hà Tiên Bay, by Richard E Barber <a href='https://creativecommons.org/licenses/by-nc/4.0/' class='cc' title='Licensed under Creative Commons Attribution-NonCommercial 4.0 International License'>cbn</a>"
 
 author: "Richard E Barber (HIRAM)"
 author-img: "field-e.PNG"
@@ -32,9 +32,9 @@ Above Saigon, by Richard E Barber
 *The first order of business* is to prepare. In the year before your trip, you are finalizing and familiarizing yourself with the photography equipment you will bring. Several practice sessions will be required near home during which you will study the operating modes that will produce the photographs you desire, be they daytime landscapes, portraiture, or nighttime street life. All types of photography are needed; people want to see all aspects of the places you visit, and your style and methods will add to the viewers' knowledge of the world both near and far.
 
 <figure>
-<img src="abovesaigon6.jpg" alt="Above Saigon by Richard E Barber">
+<img src="hondoimoi.jpg" alt="Turtle Island 2023 by Richard E Barber">
 <figcaption>
-Above Saigon, by Richard E Barber
+Turtle Island MMXXIII, by Richard E Barber
 </figcaption>
 </figure>
 
@@ -114,9 +114,9 @@ Once you have an itinerary, you will need a guide. Vietnam is as beautiful as it
 Vietnam is developing. Progress is forward and the citizens of Vietnam must work to keep up with a rapidly changing society. There are so many opportunities to get really good deals that it is easy to be taken advantage of. Vietnam is indeed a country of law and order but abidance with law is not universally understood or practiced, unfortunately. Rely on your guide at every step to interact locally- this allows you to relax and come to know the Vietnamese as trustworthy neighbors. Don't be offended or let down if a guide recommends against a particular course of action. Your guide is there to provide you with a diplomatic and fair experience that is beneficial to both the locals and tourists alike.
 
 <figure>
-<img src="abovesaigon6.jpg" alt="Above Saigon by Richard E Barber">
+<img src="latex3.jpg" alt="Rubber Trees 3 by Richard E Barber">
 <figcaption>
-Above Saigon, by Richard E Barber
+Rubber Trees III, by Richard E Barber
 </figcaption>
 </figure>
 
@@ -128,9 +128,9 @@ Above Saigon, by Richard E Barber
 Getting prepared medically is not obvious to everyone. 30 days before your trip you need to contact a Travel Clinic, either through your health care provider, or a local commercial facility. I use my health insurance to access a travel nurse that can prescribe or request prescriptions for inoculations and medicine that you will need when you travel to Vietnam. In the US, our Center for Disease Control maintains a live snapshot of what's going around and where. A travel clinic will be suited to analyze your itinerary and provide you with options that can protect your health the best.
 
 <figure>
-<img src="abovesaigon6.jpg" alt="Above Saigon by Richard E Barber">
+<img src="cafe17.jpg" alt="The view atop Cafe 17 by Richard E Barber">
 <figcaption>
-Above Saigon, by Richard E Barber
+The view atop Cafe 17, by Richard E Barber
 </figcaption>
 </figure>
 
@@ -141,9 +141,9 @@ If you want to stay in urban Vietnam the requirements for immunizations are less
 One example is Saigon.  Saigon is the urban center of the Ho Chi Minh City province. It is a bustling, active area seemingly far removed from rice paddies and cattle farms. Ho Chi Minh City is a large province that includes several other districts away from Saigon town, and those areas include farms and ranches with a different variety of pests that can be found in the urban center.
 
 <figure>
-<img src="abovesaigon6.jpg" alt="Above Saigon by Richard E Barber">
+<img src="lillypad.jpg" alt="Lillypad by Richard E Barber">
 <figcaption>
-Above Saigon, by Richard E Barber
+Lillypad, by Richard E Barber
 </figcaption>
 </figure>
 
@@ -151,9 +151,9 @@ Above Saigon, by Richard E Barber
 The travel nurse will want to know if you intend to visit a farm or rural area. Unless you are sure you won't be leaving urban Saigon, you can consider your travel to include a visit to a farm, etc. Ho Chi Minh City includes both urban Saigon and vast rubber plantations, endless rice fields soaking in standing water full of breeding mosquitos carrying microbes your system will not recognize.
 
 <figure>
-<img src="abovesaigon6.jpg" alt="Above Saigon by Richard E Barber">
+<img src="buffalo.jpg" alt="Water Buffalo Herd by Richard E Barber">
 <figcaption>
-Above Saigon, by Richard E Barber
+Water Buffalo Herd, by Richard E Barber
 </figcaption>
 </figure>
  
@@ -161,9 +161,9 @@ Above Saigon, by Richard E Barber
 The urban areas may be too stressful for you. I enjoy brief visits to Saigon, but the traffic and pollution are too much for me to handle. I prefer to stay on the outskirts where highways take you beyond the endless storefronts and houses are separated by empty or still developing plots. Being on the outskirts presents a different set of challenges. Electricity, connectivity, running heated water, etc. are not as reliable as they are in the urban center. Mattresses are not universally used; due to the year-round tropical heat, many prefer to sleep on solid wood beds covered in tatami. You may find yourself going to the bathroom and learning to use a bidet to maintain healthy cleanliness. On the outskirts, you may only find a bucket of water there for you to use. If you are a creature of convenience, you will enjoy the hotels in the urban area. Otherwise, you will learn to adapt to your environment.
 
 <figure>
-<img src="abovesaigon6.jpg" alt="Above Saigon by Richard E Barber">
+<img src="market.jpg" alt="Ben Thanh Market 2016 by Richard E Barber">
 <figcaption>
-Above Saigon, by Richard E Barber
+Ben Thanh Market, by Richard E Barber
 </figcaption>
 </figure>
 
@@ -344,9 +344,9 @@ Outlets in Vietnam accept both the two-pronged and two-bladed types of plugs. Ea
 I don't own anything that won't work both here and there: if you read the fine print on most of your power adapters and chargers, you will see they are nearly all compatible with both 120 and 240 Volts at 50 or 60Hz.  The first time I brought one of those international adapters, but quickly found it completely unnecessary.
 
 <figure>
-<img src="abovesaigon6.jpg" alt="Above Saigon by Richard E Barber">
+<img src="sunrise.jpg" alt="Cu Chi Sunrise by Richard E Barber">
 <figcaption>
-Above Saigon, by Richard E Barber
+Cu Chi Sunrise, by Richard E Barber
 </figcaption>
 </figure>
 
@@ -360,9 +360,9 @@ You can buy a Terabyte card and leave it in for the whole trip. My worry is that
 This is one area I have yet to explore. I've been thinking about having some sort of device that you plug an SD card into and save everything to disk. I believe they exist but until I find one in my price range, I just bring a terabyte worth of cards.
 
 <figure>
-<img src="abovesaigon6.jpg" alt="Above Saigon by Richard E Barber">
+<img src="speaker.jpg" alt="Lottery Ticket Hawking by Richard E Barber">
 <figcaption>
-Above Saigon, by Richard E Barber
+Lottery Ticket Hawker, by Richard E Barber
 </figcaption>
 </figure>
 
@@ -386,9 +386,9 @@ Horn Tower, by Richard E Barber
 Yes, Vietnam is online.  When I first came, you could access the internet on a Pentium and CRT monitor in stinky cafes crowded with video game addicts. Loading mail.yahoo.com took three-and-one-half minutes to a half-hour. Logging in was a whole other ordeal, and then you got to your email. How frustrating that time was. If you are on FiOs at home and your router supports it, set up a Virtual Private Network (VPN) or simply subscribe to a VPN app on your device. That way you will be able to access the same network resources you have at home. Private IPv6 settings may interfere with your VPN settings resulting in service denials, so turn that feature off if possible.
 
 <figure>
-<img src="abovesaigon6.jpg" alt="Above Saigon by Richard E Barber">
+<img src="wires.jpg" alt="Telecom cabling by Richard E Barber">
 <figcaption>
-Above Saigon, by Richard E Barber
+Telecom cabling, by Richard E Barber
 </figcaption>
 </figure>
 
@@ -399,9 +399,9 @@ You will see many more tall cell phone towers than you do at home. You will also
 Most restaurants will have free wifi.  The password is often printed on a small plaque near the cash register, or you can just ask any staff for the "pass wifi".  As I travel, often I will be taking photos in between and at meals, so bouncing here and there from wifi to wifi is definitely a viable solution to buying SIM cards or activating your international data plan.
 
 <figure>
-<img src="abovesaigon6.jpg" alt="Above Saigon by Richard E Barber">
+<img src="sauce.jpg" alt="Sauce by Richard E Barber">
 <figcaption>
-Above Saigon, by Richard E Barber
+Sauce, by Richard E Barber
 </figcaption>
 </figure>
 
@@ -413,9 +413,9 @@ It's not just about you! This applies to everyone for security reasons: there ar
 ###	Do not photograph inside a department store
 
 <figure>
-<img src="abovesaigon6.jpg" alt="Above Saigon by Richard E Barber">
+<img src="fireants.jpg" alt="Fire Ants by Richard E Barber">
 <figcaption>
-Above Saigon, by Richard E Barber
+Fire Ants, by Richard E Barber
 </figcaption>
 </figure>
 
@@ -426,9 +426,9 @@ You want to be on the go the whole time, but in reality, things move at a differ
 For example, when I have a few hours to spare in between going out, I am working on this article. Writing is a great way to express the feelings and desires you experience in Vietnam. Or, sit down with your camera and cull out the blurry shots. Walk next door and say hello to people- you will be surprised at the hospitality. Go for a walk; get caught in the rain. When the downpour starts, people will just run to the nearest house porch and wait it out with the residents. Study your maps; plan your next excursion.  Photograph some bricks or tiles, anything that looks mildly interesting- this can help break the monotony of downtime.
 
 <figure>
-<img src="abovesaigon6.jpg" alt="Above Saigon by Richard E Barber">
+<img src="gecko.jpg" alt="Gecko by Richard E Barber">
 <figcaption>
-Above Saigon, by Richard E Barber
+Gecko, by Richard E Barber
 </figcaption>
 </figure>
 
@@ -439,9 +439,9 @@ Sometimes we can not control our environment, and a destination may become inexp
 One very important thing that my daughter is reminding me of right now is the different bathrooms here. Some places will have a really nice facilities not too different than what you have at home. In other places, there will just be a hole in the ground and a bucket of water. We learn to survive no matter the comfort level. Some of us will want to prepare for these eventualities, especially the further away from western-style accommodations you travel. That means you may want to pack TP, etc.
 
 <figure>
-<img src="abovesaigon6.jpg" alt="Above Saigon by Richard E Barber">
+<img src="pavers.jpg" alt="Pavingstones by Richard E Barber">
 <figcaption>
-Above Saigon, by Richard E Barber
+Pavingstones, by Richard E Barber
 </figcaption>
 </figure>
 
@@ -449,9 +449,9 @@ Above Saigon, by Richard E Barber
 As a historian, you may be interested to see those things which are considered tourist traps- the places which have been visited and photographed the most may not excite you however. Your guide may not realize that you are not interested in all the war museums. Be sure to communicate early on in the process, otherwise, you will bring back the same memories everyone else does. You really don't need to crawl through the Cu Chi tunnels to feel the terror of the early 1970s; you don't need to pull the trigger on their machine gun or take that same picture of the covered viper pit. Perhaps you would prefer to see truly amazing and photogenic things just a few miles away like the absolutely glorious Buddhist temple complex atop Nui Ba Den or the visually and sonically stunning Cao Dai Temple in Tay Ninh. In short, don't be the cause of your own disappointment. Learn about where you *really* want to photograph. 
 
 <figure>
-<img src="abovesaigon6.jpg" alt="Above Saigon by Richard E Barber">
+<img src="pong.jpg" alt="Fish Pond by Richard E Barber">
 <figcaption>
-Above Saigon, by Richard E Barber
+A Fish Pond, by Richard E Barber
 </figcaption>
 </figure>
 
@@ -462,9 +462,9 @@ Vietnam has Uber now, it's an app called Grab. You can click a button and a non-
 It is possible to drive in Vietnam with a temporary permit issued by your local police station. For a motorcycle permit, you will have to do the figure-eight test for them. Is it necessary?  If you are driving around where traffic is complex, you may be more likely to make a mistake and be hailed to pull over, officially. **YOU DO NOT WANT TO BE PULLED OVER.** I recommend not operating any vehicles, or if you do, only operate in the countryside. In the city, there are copious rules about time periods where certain directions of traffic are disallowed on particular motorways, and it confuses even the local professional drivers. If you need to Go-Pro around, do it the right way and get your permit. Otherwise, just go along for the ride.
 
 <figure>
-<img src="abovesaigon6.jpg" alt="Above Saigon by Richard E Barber">
+<img src="eggs.jpg" alt="Cooking Eggs by Richard E Barber">
 <figcaption>
-Above Saigon, by Richard E Barber
+Cooking Eggs, by Richard E Barber
 </figcaption>
 </figure>
 
@@ -475,9 +475,9 @@ There is a rainy season during our US summer, and a dry season during our winter
 I recommend a combination of 25% DEET (OFF! Deep Forest) and another insect repellant like Picaridin (OFF! Clean Feel).  32% DEET lotion also works well here.  15% DEET (OFF! Familycare) will not be strong enough for you. Sleep in an insecticidal mosquito net if possible. Remember to reapply repellents before hitting the sack, and pay close attention to your ankles.  I have had to sit in the hospital to get my bug bites drained, so really *don't skip this step*.
 
 <figure>
-<img src="abovesaigon6.jpg" alt="Above Saigon by Richard E Barber">
+<img src="cuchi-sunset.jpg" alt="Sunset in Cu Chi by Richard E Barber">
 <figcaption>
-Above Saigon, by Richard E Barber
+Sunset in Cu Chi, by Richard E Barber
 </figcaption>
 </figure>
 
