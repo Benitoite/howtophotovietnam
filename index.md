@@ -71,7 +71,7 @@ Road Sign XIII, by Richard E Barber
 You are a photographer with a color printer. With a little attention to detail, you can easily generate a higher quality photo than the stand-on-the-line-and-look-forward Polaroid print you can buy at Walgreens for $10. You won't need any filters or processing, just the in-camera jpeg. You won't even need software. US travelers can use a new [official tool](https://tsg.phototool.state.gov/photo) to generate the required dimensioned photo.
 
 <figure>
-<img src="hotpot.jpg" alt="Hot Pot by Richard E Barber">
+<img src="hotpot.JPG" alt="Hot Pot by Richard E Barber">
 <figcaption>
 Hot Pot, by Richard E Barber
 </figcaption>
@@ -81,9 +81,9 @@ Hot Pot, by Richard E Barber
 Your first passport book will be applied for in person. This usually means you must make an advance appointment with your local postmaster to swear on your application and enter the application directly into the federal post. The appointments can sometimes take several weeks to obtain, however, most post offices can oblige with passport applications, so arrange for this early to ensure your convenience. There are significant additional expenses for rush processing so do act on the passport first. All you really need to come up with is an idea of when and where you want to travel (yes, they ask).
 
 <figure>
-<img src="abovesaigon6.jpg" alt="Above Saigon by Richard E Barber">
+<img src="bunquay.JPG" alt="Bun Quay by Richard E Barber">
 <figcaption>
-Above Saigon, by Richard E Barber
+Bun Quay, by Richard E Barber
 </figcaption>
 </figure>
 
@@ -250,7 +250,7 @@ As I mentioned in the introduction, you need to be familiar with your gear befor
 I started out in Vietnam in the year 2001 with a 25mm APS film camera.  Now I'm sporting 36 Megapixels.  The satisfaction is the same: capture memories and share them with as many people back home as possible. The memories will last forever.
 
 <figure>
-<img src="pano1.jpg" alt="Panoramic Truckstop by Richard E Barber">
+<img src="pano1.JPG" alt="Panoramic Truckstop by Richard E Barber">
 <figcaption>
 Panoramic Truckstop, by Richard E Barber
 </figcaption>
