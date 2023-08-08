@@ -139,7 +139,7 @@ The view atop Cafe 17, by Richard E Barber
 *If* you want to stay in urban Vietnam the requirements for immunizations are less than if you travel rurally. 
 
 ####	Saigon
-*One example* is Saigon.  Saigon is the urban center of the Ho Chi Minh City province. It is a bustling, active area seemingly far removed from rice paddies and cattle farms. Ho Chi Minh City is a large province that includes several other districts away from Saigon town, and those areas include farms and ranches with a different variety of pests that can be found in the urban center.
+*One example* is the town of Sài Gòn (Saigon).  [Sài Gòn](https://en.wiktionary.org/wiki/Sài_Gòn) is the urban center of the vast [Ho Chi Minh City](https://en.wikipedia.org/wiki/Ho_Chi_Minh_City) province. It is a bustling, active area seemingly far removed from rice paddies and cattle farms. Ho Chi Minh City is a large province that includes several other districts away from Saigon town, and those areas include farms and ranches with a different variety of pests that can be found in the urban center.
 
 <figure>
 <img src="lillypad.jpg" width="73%" alt="River Lotus by Richard E Barber">
@@ -178,7 +178,7 @@ Chợ Bến Thành (Ben Thanh Market MMXVI), by Richard E Barber
 <figure>
 <img src="welcome.JPG" width="67%" alt="Welcome to Hà Tiên by Richard E Barber">
 <figcaption>
-Welcome to Hà Tiên City, by Richard E Barber
+Welcome to [Hà Tiên City](https://en.wikipedia.org/wiki/Hà_Tiên), by Richard E Barber
 </figcaption>
 </figure>
 
@@ -197,26 +197,26 @@ Campuchia, along the Cambodian Border in the South, by Richard E Barber
 <br>
 These include:
 <br>
-- Bismuth subsalicylate  (Pepto-Bismol, Kaopectate, pink bismuth stomach relief)
+- [Bismuth subsalicylate](https://medlineplus.gov/druginfo/meds/a607040.html)  (Pepto-Bismol, Kaopectate, pink bismuth stomach relief)
 This usually comes as a pink liquid but is also available in tablet and chewable form for people like me who need it but can't handle the liquid's texture.
 
-- Famotidine (Pepcid AC, Famogast, H<sub>2</sub> receptor antagonist acid reducer)
+- [Famotidine](https://medlineplus.gov/druginfo/meds/a687011.html) (Pepcid AC, Famogast, H<sub>2</sub> receptor antagonist acid reducer)
 In the past, this was prescribed to me for acid reflux and heartburn but is now widely available over the counter. It can be taken in prophylaxis before enjoying a particularly challenging or spicy meal.
 
-- Dimenhydrinate (Dramamine, Gravol, Gastrovol, traveler’s antihistimine)
+- [Dimenhydrinate](https://medlineplus.gov/druginfo/meds/a607046.html) (Dramamine, Gravol, Gastrovol, traveler’s antihistimine)
 If you a prone to car or sea sickness, consider taking a tube of Dramamine with you. It can be taken if you are the passenger but may make you too drowsy to drive.
 
 <figure>
 <img src="end.JPG" width="50%" alt="Ha Tien the city at the end of the world by Richard E Barber">
 <figcaption>
-Thành phố Hà Tiên, the city at the end of the world, by Richard E Barber
+[Thành phố Hà Tiên](https://en.wikipedia.org/wiki/Hà_Tiên), the city at the end of the world, by Richard E Barber
 </figcaption>
 </figure>
 
 ####	Headache and joint pain
 *You* may be exposed to painfully long car rides or develop migraines from the sodium content of some foods here. Use an over-the-counter remedy for these moments, as directed.
 
-- Acetaminophen (Tylenol, Paracetamol, Vadol)
+- [Acetaminophen](https://medlineplus.gov/druginfo/meds/a681004.html) (Tylenol, Paracetamol, Vadol)
 This remedy is called Paracetamol in Vietnam and it is molecularly the same as what we call Acetaminophen, or Tylenol. Used as directed.
 
 * 500mg Rapid Release Capsules
@@ -233,13 +233,13 @@ Bình minh ở Củ Chi (Cu Chi Sunrise III), by Richard E Barber
 </figure>
 
 ###	Curing your illness by prescription
-- ℞ Azithromycin (Zithromax Z-pack, Zmax, TRI-PAC, broad-spectrum macrolide antibiotic)
+- ℞ [Azithromycin](https://medlineplus.gov/druginfo/meds/a697037.html) (Zithromax Z-pack, Zmax, TRI-PAC, broad-spectrum macrolide antibiotic)
 At home, your doctor is most likely to prescribe a 3 or 5-day course of Azithromycin for severe diarrhea and fever. This is your doctor potentially keeping you out of the hospital- don't refuse it.  You do not want to go to the hospital.
 
--	℞ Amoxicillin (Penicillin antibiotic)
+-	℞ [Amoxicillin](https://medlineplus.gov/druginfo/meds/a685001.html) (Penicillin antibiotic)
 Younger patients who can not swallow the larger caplets may be prescribed this liquid medication.
 
-- ℞ Cephalexin (Keflex, cephalosporin antibiotic)
+- ℞ [Cephalexin](https://medlineplus.gov/druginfo/meds/a682733.html) (Keflex, cephalosporin antibiotic)
 If you present to a local doctor or pharmacist in Vietnam with severe fever and diarrhea, you are likely to obtain Keflex.
 
 <figure>
@@ -253,7 +253,7 @@ If you present to a local doctor or pharmacist in Vietnam with severe fever and 
 *As I mentioned* in the introduction, you need to be familiar with your gear before you come. Don't buy a whole new kit to learn in Vietnam. You really need to focus more on your surroundings, which will make you a better photographer anyway. Practice your camera. Swap lenses quickly and cleanly. Maintain your power sources.
 
 ##	Your camera
-*I started out* in Vietnam in the year 2001 with a 25mm APS film camera.  Now I'm sporting 36 Megapixels.  The satisfaction is the same: capture memories and share them with as many people back home as possible. The memories will last forever.
+*I started out* in Vietnam in the year 2001 with a 25mm [APS film](https://thedarkroom.com/film-formats/aps-film/) camera.  Now I'm sporting 36 Megapixels.  The satisfaction is the same: capture memories and share them with as many people back home as possible. The memories will last forever.
 
 <figure>
 <img src="pano1.JPG" alt="Panoramic Truckstop by Richard E Barber">
@@ -263,7 +263,7 @@ Tân Huê Viên Truckstop, Sóc Trăng, by Richard E Barber
 </figure>
 
 ###	Batteries or dual batteries?
-*On a daily basis*, with a single-battery camera, I need to take two batteries and swap them mid-day.  With a dual-battery vertical grip, I can record all day easily. The dual-battery grips are sensitive to voltage differences. If the two batteries are not at the exact same charge level, the camera assumes they are counterfeit and will shut down in order to prevent starting a fire.  When loading the camera with freshly-charged batteries, make sure the camera will function, otherwise, you will need to place each battery back into the charger for a while to ensure they are equal. Therefore it is best to use batteries paired by age. I use a silver Sharpie to mark my battery sets with letter pairs like "A" + "B".
+*On a daily basis*, with a single-battery camera, I need to take two batteries and swap them mid-day.  With a [dual-battery vertical grip](https://www.bhphotovideo.com/c/search?q=Battery%20grip&sts=ma&usedSearch=1), I can record all day easily. The dual-battery grips are sensitive to voltage differences. If the two batteries are not at the exact same charge level, the camera assumes they are counterfeit and will shut down in order to prevent [starting a fire](https://www.powertoolinstitute.com/pti-pages/it-original-power-tool-batteries.asp).  When loading the camera with freshly-charged batteries, make sure the camera will function, otherwise, you will need to place each battery back into the charger for a while to ensure they are equal. Therefore it is best to use batteries paired by age. I use a silver Sharpie to mark my battery sets with letter pairs like "A" + "B".
 
 ####	Compatibility with cameras
 *I have found* that third-party batteries will work for a certain period, then lose their ability to hold a charge. Like your camera, the batteries should be from the Original Equipment Manufacturer. If you shoot Canon, buy Canon batteries. Don't be fooled into thinking you are saving money by purchasing multiple knockoff cheapos. It's quite the opposite. A pair of good authentic batteries will outlast knock-offs five or six times over.
@@ -475,7 +475,7 @@ Xe máy gia đình (family bike), by Richard E Barber
 </figure>
 
 ###	Dealing with precipitation and humidity
-*There is* a rainy season during our US summer, and a dry season during our winter time. It is always hot and humid. As your lens transitions between air-conditioning and the outside environment, the outer element will fog over. This is normal and ok. I carry a lens pen and microfiber cloth to help the lens stay dry while warming up. After a couple of minutes, the water will disappear and you can begin taking pictures. No need to panic, and absolutely no need to put a useless image-degrading UV-1A over your lens.
+*There is* a rainy season during our US summer, and a dry season during our winter time. It is always hot and humid. As your lens transitions between air-conditioning and the outside environment, the outer element will fog over. This is normal and ok. I carry a [LensPen®](https://lenspen.com/collections/lens-filter-cleaning-original/products/lenspen-black) and few small [microfiber lens cloths](https://www.bhphotovideo.com/c/search?q=microfiber%20lenscloth&sts=ma) to help the lens stay dry while warming up. After a couple of minutes, the water will disappear and you can begin taking pictures. No need to panic, and absolutely no need to put a useless image-degrading ([DPReview](https://www.dpreview.com/articles/7333331953/should-you-use-a-uv-filter-on-your-lens), [PetaPixel](https://petapixel.com/uv-filter-guide/)) UV filter over your lens.
 
 ### Pest control
 *I recommend* a combination of 25% DEET (OFF! Deep Forest) and another insect repellant like Picaridin (OFF! Clean Feel).  32% DEET lotion also works well here.  15% DEET (OFF! Familycare) will not be strong enough for you. Sleep in an insecticidal mosquito net if possible. Remember to reapply repellents before hitting the sack, and pay close attention to your ankles.  I have had to sit in the hospital to get my bug bites drained, so really *don't skip this step*.
