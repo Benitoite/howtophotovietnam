@@ -407,7 +407,7 @@ Sống ở ven sông (riverside life), by Richard E Barber
 <figure>
 <img src="sauce.jpg" width="50%" alt="Chili Peppers by Richard E Barber">
 <figcaption>
-Ớt cay, hot peppers, by Richard E Barber
+Ớt cay (hot peppers), by Richard E Barber
 </figcaption>
 </figure>
 
