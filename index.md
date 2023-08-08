@@ -173,9 +173,9 @@ Ben Thanh Market MMXVI, by Richard E Barber
 The travel nurse will ask if you would like to be prescribed a strong anti-diarrheal medication. Do not refuse this prescription, even if you think you have the strongest stomach in the world. The food will be different than what your body is familiar with and it will cause you some discomfort at times. Your luggage must include some over-the-counter remedies to be used if only to allow you to have a slightly more pleasant experience. However at the first sign of fever or severe discomfort, that prescription medicine will absolutely save your life.
 
 <figure>
-<img src="abovesaigon6.jpg" alt="Above Saigon by Richard E Barber">
+<img src="welcome.JPG" alt="Welcome to Hà Tiên by Richard E Barber">
 <figcaption>
-Above Saigon, by Richard E Barber
+Welcome to Hà Tiên, by Richard E Barber
 </figcaption>
 </figure>
 
@@ -183,9 +183,9 @@ Above Saigon, by Richard E Barber
 As in the United States, doctors, pharmacists, and nurse practitioners alike are authorized by law to write prescriptions for life-saving antibiotic medication. Over there they will know what is available and have the expertise to know which prescription is right for you. However, not all over-the-counter remedies you are used to back home will be available, if at all. Bring them with you because you know they work and you know their side effects.
 
 <figure>
-<img src="abovesaigon6.jpg" alt="Above Saigon by Richard E Barber">
+<img src="kamp.JPG" alt="Cambodian Border by Richard E Barber">
 <figcaption>
-Above Saigon, by Richard E Barber
+Cambodian Border, by Richard E Barber
 </figcaption>
 </figure>
 
@@ -203,9 +203,9 @@ In the past, this was prescribed to me for acid reflux and heartburn but is now 
 If you a prone to car or sea sickness, consider taking a tube of Dramamine with you. It can be taken if you are the passenger but may make you too drowsy to drive.
 
 <figure>
-<img src="shoe.JPG" alt="Above Saigon by Richard E Barber">
+<img src="end.JPG" alt="Ha Tien the city at the end of the world by Richard E Barber">
 <figcaption>
-Above Saigon, by Richard E Barber
+Hà Tiên, the city at the end of the world, by Richard E Barber
 </figcaption>
 </figure>
 
