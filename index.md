@@ -143,9 +143,9 @@ If you want to stay in urban Vietnam the requirements for immunizations are less
 One example is Saigon.  Saigon is the urban center of the Ho Chi Minh City province. It is a bustling, active area seemingly far removed from rice paddies and cattle farms. Ho Chi Minh City is a large province that includes several other districts away from Saigon town, and those areas include farms and ranches with a different variety of pests that can be found in the urban center.
 
 <figure>
-<img src="lillypad.jpg" alt="Lillypad by Richard E Barber">
+<img src="lillypad.jpg" alt="River Lotus by Richard E Barber">
 <figcaption>
-Lillypad, by Richard E Barber
+River lotus, by Richard E Barber
 </figcaption>
 </figure>
 
