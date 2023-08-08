@@ -124,8 +124,6 @@ Rubber Trees III, by Richard E Barber
 
 <hr>
 
-> DISCLAIMER: The information provided in the following section is for educational purposes only, and does not substitute for professional medical advice. Always consult with your doctor/pharmacist/nurse-practitioner team when dealing with any medical situation you may endure.
-
 ##	Immunizations
 Getting prepared medically is not obvious to everyone. 30 days before your trip you need to contact a Travel Clinic, either through your health care provider, or a local commercial facility. I use my health insurance to access a travel nurse that can prescribe or request prescriptions for inoculations and medicine that you will need when you travel to Vietnam. In the US, our Center for Disease Control maintains a live snapshot of what's going around and where. A travel clinic will be suited to analyze your itinerary and provide you with options that can protect your health the best.
 
@@ -168,6 +166,8 @@ The urban areas may be too stressful for you. I enjoy brief visits to Saigon, bu
 Ben Thanh Market MMXVI, by Richard E Barber
 </figcaption>
 </figure>
+
+> DISCLAIMER: The information provided in the following section is for educational purposes only, and does not substitute for professional medical advice. Always consult with your doctor/pharmacist/nurse-practitioner team when dealing with any medical situation you may endure.
 
 ##	Your medicine
 The travel nurse will ask if you would like to be prescribed a strong anti-diarrheal medication. Do not refuse this prescription, even if you think you have the strongest stomach in the world. The food will be different than what your body is familiar with and it will cause you some discomfort at times. Your luggage must include some over-the-counter remedies to be used if only to allow you to have a slightly more pleasant experience. However at the first sign of fever or severe discomfort, that prescription medicine will absolutely save your life.
