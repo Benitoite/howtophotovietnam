@@ -465,7 +465,7 @@ Vietnam has Uber now, it's an app called Grab. You can click a button and a non-
 It is possible to drive in Vietnam with a temporary permit issued by your local police station. For a motorcycle permit, you will have to do the figure-eight test for them. Is it necessary?  If you are driving around where traffic is complex, you may be more likely to make a mistake and be hailed to pull over, officially. **YOU DO NOT WANT TO BE PULLED OVER.** I recommend not operating any vehicles, or if you do, only operate in the countryside. In the city, there are copious rules about time periods where certain directions of traffic are disallowed on particular motorways, and it confuses even the local professional drivers. If you need to Go-Pro around, do it the right way and get your permit. Otherwise, just go along for the ride.
 
 <figure>
-<img src="familybike.jpg" alt="Family Bike by Richard E Barber">
+<img src="familybike.jpg" width="50%"  alt="Family Bike by Richard E Barber">
 <figcaption>
 Family Bike, by Richard E Barber
 </figcaption>
