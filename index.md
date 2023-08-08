@@ -292,7 +292,7 @@ Yes, you can stitch really high-resolution panoramas with a set of RAW camera-ta
 Often you will want to record some images on the phone to share socially.  Unless you are not into sharing, I recommend starting up something like a Facebook profile, so you can at least share some of the more striking scenes you are likely to visit.  I also share the camera pics once I've developed them at home with RawTherapee or whatever.
 
 <figure>
-<img src="vietnam_insulaters.jpg" alt="Insulators by Richard E Barber">
+<img src="vietnam_insulaters.jpg" width="60%" alt="Insulators by Richard E Barber">
 <figcaption>
 Insulators, by Richard E Barber
 </figcaption>
