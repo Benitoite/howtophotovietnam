@@ -12,7 +12,7 @@ author: "Richard E Barber (HIRAM)"
 author-img: "field-e.PNG"
 author-url: "https://patreon.com/Benitoite"
 author-twitter: ""
-author-bio: "Richard Barber (https://github.com/Benitoite) keeps fairly busy producing signed and notarized universal MacOS application bundles for RawTherapee, LuminanceHDR, Filmulator, HDRMerge and other great free photography software.  If you love free software, consider joining his Patreon, https://patreon.com/Benitoite"
+author-bio: "Richard Barber (https://github.com/Benitoite) keeps fairly busy producing signed and notarized universal MacOS application bundles for RawTherapee, LuminanceHDR, Filmulator, HDRMerge and other great free photography software. The inspiration behind providing these free open-source software came initially with the disatisfaction with the availability of useable free Macintosh photo software.  If you love free Mac photo software, consider joining his Patreon, https://patreon.com/Benitoite"
 
 type: 'article'
 layout: article.hbt
