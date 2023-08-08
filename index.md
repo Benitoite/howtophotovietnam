@@ -103,7 +103,7 @@ Mạt chược game set, by Richard E Barber
 I highly recommend seeking the assistance of a Travel Agent when going to Vietnam. The intricacies of navigating the Vietnamese system could take you years to learn, and travel agents know the ropes. It's not just about getting a flight. Anyone can do that. It's about getting the best flight at the best price and having all your ducks in a row for that 30-second time period you will spend at the immigration desk. The value of professional travel assistance is worth at least twice what you can expect to pay.
 
 <figure>
-<img src="guide.JPG" alt="Tour Guide in Ben Tre by Richard E Barber">
+<img src="guide.JPG" width="70%" alt="Tour Guide in Ben Tre by Richard E Barber">
 <figcaption>
 Tour Guide in Bến Tre, by Richard E Barber
 </figcaption>
@@ -116,7 +116,7 @@ Once you have an itinerary, you will need a guide. Vietnam is as beautiful as it
 Vietnam is developing. Progress is forward and the citizens of Vietnam must work to keep up with a rapidly changing society. There are so many opportunities to get really good deals that it is easy to be taken advantage of. Vietnam is indeed a country of law and order but abidance with law is not universally understood or practiced, unfortunately. Rely on your guide at every step to interact locally- this allows you to relax and come to know the Vietnamese as trustworthy neighbors. Don't be offended or let down if a guide recommends against a particular course of action. Your guide is there to provide you with a diplomatic and fair experience that is beneficial to both the locals and tourists alike.
 
 <figure>
-<img src="latex-3.jpg" alt="Rubber Trees 3 by Richard E Barber">
+<img src="latex-3.jpg" width="67%" alt="Rubber Trees 3 by Richard E Barber">
 <figcaption>
 Rubber Trees III, by Richard E Barber
 </figcaption>
