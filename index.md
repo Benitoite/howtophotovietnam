@@ -85,7 +85,7 @@ Your first passport book will be applied for in person. This usually means you m
 <figure>
 <img src="bunquay.JPG" width="50%" alt="Bun Quay by Richard E Barber">
 <figcaption>
-Bun Quay, by Richard E Barber
+Bún Quậy đặc sản Phú Quốc (Stirred noodles, Phu Quoc Island specialty), by Richard E Barber
 </figcaption>
 </figure>
 
@@ -105,7 +105,7 @@ I highly recommend seeking the assistance of a Travel Agent when going to Vietna
 <figure>
 <img src="guide.JPG" width="70%" alt="Tour Guide in Ben Tre by Richard E Barber">
 <figcaption>
-Tour Guide in Bến Tre, by Richard E Barber
+Tour Guide "Cô Mỹ" of Bến Tre, by Richard E Barber
 </figcaption>
 </figure>
 
@@ -143,7 +143,7 @@ One example is Saigon.  Saigon is the urban center of the Ho Chi Minh City provi
 <figure>
 <img src="lillypad.jpg" width="73%" alt="River Lotus by Richard E Barber">
 <figcaption>
-River lotus, by Richard E Barber
+*Nelumbo nucifera* river lotus, by Richard E Barber
 </figcaption>
 </figure>
 
@@ -153,7 +153,7 @@ The travel nurse will want to know if you intend to visit a farm or rural area. 
 <figure>
 <img src="buffalo.jpg" alt="Water Buffalo Herd by Richard E Barber">
 <figcaption>
-Water Buffalo Herd, by Richard E Barber
+Đàn trâu nước (water buffalo herd), by Richard E Barber
 </figcaption>
 </figure>
  
@@ -163,7 +163,7 @@ The urban areas may be too stressful for you. I enjoy brief visits to Saigon, bu
 <figure>
 <img src="market.jpg" width="50%" alt="Ben Thanh Market 2016 by Richard E Barber">
 <figcaption>
-Ben Thanh Market MMXVI, by Richard E Barber
+Chợ Bến Thành (Ben Thanh Market MMXVI), by Richard E Barber
 </figcaption>
 </figure>
 
@@ -177,7 +177,7 @@ The travel nurse will ask if you would like to be prescribed a strong anti-diarr
 <figure>
 <img src="welcome.JPG" width="67%" alt="Welcome to Hà Tiên by Richard E Barber">
 <figcaption>
-Welcome to Hà Tiên, by Richard E Barber
+Welcome to Hà Tiên City, by Richard E Barber
 </figcaption>
 </figure>
 
@@ -187,7 +187,7 @@ As in the United States, doctors, pharmacists, and nurse practitioners alike are
 <figure>
 <img src="kamp.JPG" width="50%" alt="Cambodian Border by Richard E Barber">
 <figcaption>
-Cambodian Border, by Richard E Barber
+Campuchia, along the Cambodian Border in the South, by Richard E Barber
 </figcaption>
 </figure>
 
@@ -206,7 +206,7 @@ If you a prone to car or sea sickness, consider taking a tube of Dramamine with 
 <figure>
 <img src="end.JPG" width="50%" alt="Ha Tien the city at the end of the world by Richard E Barber">
 <figcaption>
-Hà Tiên, the city at the end of the world, by Richard E Barber
+Thành phố Hà Tiên, the city at the end of the world, by Richard E Barber
 </figcaption>
 </figure>
 
@@ -225,7 +225,7 @@ If you have back or joint pain, these are stronger but take 30 minutes to work.
 <figure>
 <img src="cuchisunrise3.JPG" width="50%" alt="Cu Chi Subnrise 3 by Richard E Barber">
 <figcaption>
-Cu Chi Sunrise III, by Richard E Barber
+Bình minh ở Củ Chi (Cu Chi Sunrise III), by Richard E Barber
 </figcaption>
 </figure>
 
@@ -242,7 +242,7 @@ If you present to a local doctor or pharmacist in Vietnam with severe fever and 
 <figure>
 <img src="shoe.JPG" width="37%" alt="iPhone6 by Richard E Barber">
 <figcaption>
-iPhone shoe, by Richard E Barber
+Đây là giày của người khác (This here shoe belongs to another person), by Richard E Barber
 </figcaption>
 </figure>
 
@@ -255,7 +255,7 @@ I started out in Vietnam in the year 2001 with a 25mm APS film camera.  Now I'm 
 <figure>
 <img src="pano1.JPG" alt="Panoramic Truckstop by Richard E Barber">
 <figcaption>
-Panoramic Truckstop, by Richard E Barber
+Tân Huê Viên Truckstop, Sóc Trăng, by Richard E Barber
 </figcaption>
 </figure>
 
@@ -268,7 +268,7 @@ I have found that third-party batteries will work for a certain period, then los
 <figure>
 <img src="xatananhoi2.jpg" width="50%" alt="Tan An Hoi Commune Office by Richard E Barber">
 <figcaption>
-Tan An Hoi Commune Office, by Richard E Barber
+Hội đồng nhân dân xã Tân An Hội 2002 (The people's committee of Tan An Hoi commune), by Richard E Barber
 </figcaption>
 </figure>
 
@@ -281,7 +281,7 @@ Bring your phone camera. They are actually not too bad but you will need to keep
 <figure>
 <img src="cuchifields.jpg" width="50%" alt="Cu Chi Fields by Richard E Barber">
 <figcaption>
-Cu Chi Fields, by Richard E Barber
+Ruộng lúa Củ Chi 2002 (Cu Chi rice fields), by Richard E Barber
 </figcaption>
 </figure>
 
@@ -333,7 +333,7 @@ To capture close-up detail and candid photography, I have to recommend going to 
 <figure>
 <img src="kem.jpg" width="50%" alt="Ice Cream Dessert by Richard E Barber">
 <figcaption>
-Ice Cream Dessert, by Richard E Barber
+Kem tráng miệng (Ice cream dessert), by Richard E Barber
 </figcaption>
 </figure>
 
@@ -349,7 +349,7 @@ I don't own anything that won't work both here and there: if you read the fine p
 <figure>
 <img src="sunrise.jpg" width="50%" alt="Cu Chi Sunset A by Richard E Barber">
 <figcaption>
-Cu Chi Sunset A, by Richard E Barber
+Hoàng hôn Củ Chi (Cu Chi sunset A), by Richard E Barber
 </figcaption>
 </figure>
 
@@ -365,7 +365,7 @@ This is one area I have yet to explore. I've been thinking about having some sor
 <figure>
 <img src="speaker.jpg" width="75%" alt="Lottery Ticket Hawking by Richard E Barber">
 <figcaption>
-Lottery Ticket Hawker, by Richard E Barber
+Xổ số bán hàng rong (lottery ticket hawker), by Richard E Barber
 </figcaption>
 </figure>
 
@@ -376,9 +376,9 @@ Get ready! Hop aboard your flight and remember to max out your luggage space wit
 *Does not exist here.* Topics that are up for discussion include: the economy, weather, food, and entertainment, but conversing about local or national politics is just not a thing here. Except for US politics; you will be surprised at the love. Last time I was here some Europeans gave me heat for who we elected president which was good for a hearty laugh. *Be a diplomat, not a pundit!*
 
 <figure>
-<img src="chaphanxisco.JPG" width="50%" alt="Cha Phanxisco by Richard E Barber">
+<img src="chaphanxisco.JPG" width="50%" alt="Cha Phanxico by Richard E Barber">
 <figcaption>
-Cha Phanxisco, by Richard E Barber
+Cha Phanxico (Fr. Francis), by Richard E Barber
 </figcaption>
 </figure>
 
@@ -391,7 +391,7 @@ Yes, Vietnam is online.  When I first came, you could access the internet on a P
 <figure>
 <img src="river.JPG" width="50%" alt="Riverside life by Richard E Barber">
 <figcaption>
-Riverside life, by Richard E Barber
+Sống ở ven sông (riverside life), by Richard E Barber
 </figcaption>
 </figure>
 
@@ -404,12 +404,12 @@ Most restaurants will have free wifi.  The password is often printed on a small 
 <figure>
 <img src="sauce.jpg" width="50%" alt="Chili Peppers by Richard E Barber">
 <figcaption>
-Chili Peppers, by Richard E Barber
+Ớt cay, hot peppers, by Richard E Barber
 </figcaption>
 </figure>
 
 ##	Taboo
-It's not just about you! This applies to everyone for security reasons: there are really only a couple of things you mustn't attempt photographically that you will need to think about:
+It's not just about you! This applies to *everyone* for security reasons: there are really only a couple of things you mustn't attempt photographically that you will need to think about:
 
 o Do not photograph the police
 
@@ -418,7 +418,7 @@ o	Do not photograph inside a department store
 <figure>
 <img src="fireants.jpg" width="50%" alt="Fire Ants by Richard E Barber">
 <figcaption>
-Fire Ants, by Richard E Barber
+Kiến lửa (fire ants), by Richard E Barber
 </figcaption>
 </figure>
 
@@ -431,7 +431,7 @@ For example, when I have a few hours to spare in between going out, I am working
 <figure>
 <img src="gecko.jpg" alt="Gecko by Richard E Barber">
 <figcaption>
-Gecko, by Richard E Barber
+Con tắc kè (Tokay gecko), by Richard E Barber
 </figcaption>
 </figure>
 
@@ -444,7 +444,7 @@ One very important thing that my daughter is reminding me of right now is the di
 <figure>
 <img src="pavers.jpg" alt="Pavingstones by Richard E Barber">
 <figcaption>
-Pavingstones, by Richard E Barber
+Đá lát đường (pavingstones), by Richard E Barber
 </figcaption>
 </figure>
 
@@ -454,7 +454,7 @@ As a historian, you may be interested to see those things which are considered t
 <figure>
 <img src="pond.jpg" width="50%" alt="Fish Pond by Richard E Barber">
 <figcaption>
-A Fish Pond, by Richard E Barber
+Ao cá (fish pond), by Richard E Barber
 </figcaption>
 </figure>
 
@@ -467,7 +467,7 @@ It is possible to drive in Vietnam with a temporary permit issued by your local 
 <figure>
 <img src="familybike.jpg" width="50%" alt="Family Bike by Richard E Barber">
 <figcaption>
-Family Bike, by Richard E Barber
+Xe máy gia đình (family bike), by Richard E Barber
 </figcaption>
 </figure>
 
@@ -491,7 +491,7 @@ Click click click click click!
 <figure>
 <img src="gourami.JPG" alt="Gourami fish in Cu Chi by Richard E Barber">
 <figcaption>
-Gourami fish, by Richard E Barber
+Cá bầu (giant gourami fish), by Richard E Barber
 </figcaption>
 </figure>
 
