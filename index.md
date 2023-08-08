@@ -32,7 +32,7 @@ Above Saigon, by Richard E Barber
 *The first order of business* is to prepare. In the year before your trip, you are finalizing and familiarizing yourself with the photography equipment you will bring. Several practice sessions will be required near home during which you will study the operating modes that will produce the photographs you desire, be they daytime landscapes, portraiture, or nighttime street life. All types of photography are needed; people want to see all aspects of the places you visit, and your style and methods will add to the viewers' knowledge of the world both near and far.
 
 <figure>
-<img src="hondoimoi.jpg" alt="Turtle Island 2023 by Richard E Barber">
+<img src="hondoimoi.jpg" width="50%" alt="Turtle Island 2023 by Richard E Barber">
 <figcaption>
 Turtle Island MMXXIII, by Richard E Barber
 </figcaption>
@@ -60,7 +60,7 @@ Saigon Traffic 2002, by Richard E Barber
 *Also* in the year in advance, you are planning your trip. Where will you go? What do you want to see and photograph? Are you a historian? Vietnam will offer you a unique perspective that you may not have previously thought about. Do you love people? Vietnam will astound you with her unabashed beauty. Landscapes? You will be amazed at the tropical variety. Streets? Urban centers will be alive for you day and night. Vietnam is there for you but only if you prepare yourself.
 
 <figure>
-<img src="signroad8.jpg" alt="Road Sign 8 by Richard E Barber">
+<img src="signroad8.jpg" width="50%" alt="Road Sign 8 by Richard E Barber">
 <figcaption>
 Road Sign XIII, by Richard E Barber
 </figcaption>
@@ -73,7 +73,7 @@ Road Sign XIII, by Richard E Barber
 You are a photographer with a color printer. With a little attention to detail, you can easily generate a higher quality photo than the stand-on-the-line-and-look-forward Polaroid print you can buy at Walgreens for $10. You won't need any filters or processing, just the in-camera jpeg. You won't even need software. US travelers can use a new [official tool](https://tsg.phototool.state.gov/photo) to generate the required dimensioned photo.
 
 <figure>
-<img src="hotpot.JPG" alt="Hot Pot by Richard E Barber">
+<img src="hotpot.JPG" width="70%" alt="Hot Pot by Richard E Barber">
 <figcaption>
 Hot Pot, by Richard E Barber
 </figcaption>
@@ -83,7 +83,7 @@ Hot Pot, by Richard E Barber
 Your first passport book will be applied for in person. This usually means you must make an advance appointment with your local postmaster to swear on your application and enter the application directly into the federal post. The appointments can sometimes take several weeks to obtain, however, most post offices can oblige with passport applications, so arrange for this early to ensure your convenience. There are significant additional expenses for rush processing so do act on the passport first. All you really need to come up with is an idea of when and where you want to travel (yes, they ask).
 
 <figure>
-<img src="bunquay.JPG" alt="Bun Quay by Richard E Barber">
+<img src="bunquay.JPG" width="50%" alt="Bun Quay by Richard E Barber">
 <figcaption>
 Bun Quay, by Richard E Barber
 </figcaption>
@@ -128,7 +128,7 @@ Rubber Trees III, by Richard E Barber
 Getting prepared medically is not obvious to everyone. 30 days before your trip you need to contact a Travel Clinic, either through your health care provider, or a local commercial facility. I use my health insurance to access a travel nurse that can prescribe or request prescriptions for inoculations and medicine that you will need when you travel to Vietnam. In the US, our Center for Disease Control maintains a live snapshot of what's going around and where. A travel clinic will be suited to analyze your itinerary and provide you with options that can protect your health the best.
 
 <figure>
-<img src="cafe17.jpg" alt="The view atop Cafe 17 by Richard E Barber">
+<img src="cafe17.jpg" width="67%" alt="The view atop Cafe 17 by Richard E Barber">
 <figcaption>
 The view atop Cafe 17, by Richard E Barber
 </figcaption>
@@ -141,7 +141,7 @@ If you want to stay in urban Vietnam the requirements for immunizations are less
 One example is Saigon.  Saigon is the urban center of the Ho Chi Minh City province. It is a bustling, active area seemingly far removed from rice paddies and cattle farms. Ho Chi Minh City is a large province that includes several other districts away from Saigon town, and those areas include farms and ranches with a different variety of pests that can be found in the urban center.
 
 <figure>
-<img src="lillypad.jpg" alt="River Lotus by Richard E Barber">
+<img src="lillypad.jpg" width="73%" alt="River Lotus by Richard E Barber">
 <figcaption>
 River lotus, by Richard E Barber
 </figcaption>
@@ -161,7 +161,7 @@ Water Buffalo Herd, by Richard E Barber
 The urban areas may be too stressful for you. I enjoy brief visits to Saigon, but the traffic and pollution are too much for me to handle. I prefer to stay on the outskirts where highways take you beyond the endless storefronts and houses are separated by empty or still developing plots. Being on the outskirts presents a different set of challenges. Electricity, connectivity, running heated water, etc. are not as reliable as they are in the urban center. Mattresses are not universally used; due to the year-round tropical heat, many prefer to sleep on solid wood beds covered in tatami. You may find yourself going to the bathroom and learning to use a bidet to maintain healthy cleanliness. On the outskirts, you may only find a bucket of water there for you to use. If you are a creature of convenience, you will enjoy the hotels in the urban area. Otherwise, you will learn to adapt to your environment.
 
 <figure>
-<img src="market.jpg" alt="Ben Thanh Market 2016 by Richard E Barber">
+<img src="market.jpg" width="50%" alt="Ben Thanh Market 2016 by Richard E Barber">
 <figcaption>
 Ben Thanh Market MMXVI, by Richard E Barber
 </figcaption>
@@ -175,7 +175,7 @@ Ben Thanh Market MMXVI, by Richard E Barber
 The travel nurse will ask if you would like to be prescribed a strong anti-diarrheal medication. Do not refuse this prescription, even if you think you have the strongest stomach in the world. The food will be different than what your body is familiar with and it will cause you some discomfort at times. Your luggage must include some over-the-counter remedies to be used if only to allow you to have a slightly more pleasant experience. However at the first sign of fever or severe discomfort, that prescription medicine will absolutely save your life.
 
 <figure>
-<img src="welcome.JPG" alt="Welcome to Hà Tiên by Richard E Barber">
+<img src="welcome.JPG" width="67%" alt="Welcome to Hà Tiên by Richard E Barber">
 <figcaption>
 Welcome to Hà Tiên, by Richard E Barber
 </figcaption>
@@ -185,7 +185,7 @@ Welcome to Hà Tiên, by Richard E Barber
 As in the United States, doctors, pharmacists, and nurse practitioners alike are authorized by law to write prescriptions for life-saving antibiotic medication. Over there they will know what is available and have the expertise to know which prescription is right for you. However, not all over-the-counter remedies you are used to back home will be available, if at all. Bring them with you because you know they work and you know their side effects.
 
 <figure>
-<img src="kamp.JPG" alt="Cambodian Border by Richard E Barber">
+<img src="kamp.JPG" width="50%" alt="Cambodian Border by Richard E Barber">
 <figcaption>
 Cambodian Border, by Richard E Barber
 </figcaption>
@@ -204,7 +204,7 @@ In the past, this was prescribed to me for acid reflux and heartburn but is now 
 If you a prone to car or sea sickness, consider taking a tube of Dramamine with you. It can be taken if you are the passenger but may make you too drowsy to drive.
 
 <figure>
-<img src="end.JPG" alt="Ha Tien the city at the end of the world by Richard E Barber">
+<img src="end.JPG" width="50%" alt="Ha Tien the city at the end of the world by Richard E Barber">
 <figcaption>
 Hà Tiên, the city at the end of the world, by Richard E Barber
 </figcaption>
@@ -223,7 +223,7 @@ Great for sudden migraine when used as directed.
 If you have back or joint pain, these are stronger but take 30 minutes to work.
 
 <figure>
-<img src="cuchisunrise3.JPG" alt="Cu Chi Subnrise 3 by Richard E Barber">
+<img src="cuchisunrise3.JPG" width="50%" alt="Cu Chi Subnrise 3 by Richard E Barber">
 <figcaption>
 Cu Chi Sunrise III, by Richard E Barber
 </figcaption>
@@ -240,7 +240,7 @@ Younger patients who can not swallow the larger caplets may be prescribed this l
 If you present to a local doctor or pharmacist in Vietnam with severe fever and diarrhea, you are likely to obtain Keflex.
 
 <figure>
-<img src="shoe.JPG" alt="iPhone6 by Richard E Barber">
+<img src="shoe.JPG" width="37%" alt="iPhone6 by Richard E Barber">
 <figcaption>
 iPhone shoe, by Richard E Barber
 </figcaption>
@@ -266,7 +266,7 @@ On a daily basis, with a single-battery camera, I need to take two batteries and
 I have found that third-party batteries will work for a certain period, then lose their ability to hold a charge. Like your camera, the batteries should be from the Original Equipment Manufacturer. If you shoot Canon, buy Canon batteries. Don't be fooled into thinking you are saving money by purchasing multiple knockoff cheapos. It's quite the opposite. A pair of good authentic batteries will outlast knock-offs five or six times over.
 
 <figure>
-<img src="xatananhoi2.jpg" alt="Tan An Hoi Commune Office by Richard E Barber">
+<img src="xatananhoi2.jpg" width="50%" alt="Tan An Hoi Commune Office by Richard E Barber">
 <figcaption>
 Tan An Hoi Commune Office, by Richard E Barber
 </figcaption>
@@ -279,7 +279,7 @@ Charge your batteries completely and daily.  Bring an extra pair in case lightni
 Bring your phone camera. They are actually not too bad but you will need to keep the lenses clean with your shirt tails or a microfiber cloth. Your phone may be able to do things your DSLR can not, and it's good to have a variety of tools available while out and about. If your camera goes down or somehow goes missing, you'll be so glad the phone was in your pocket; if your trip is a once-in-a-lifetime, even more so.
 
 <figure>
-<img src="cuchifields.jpg" alt="Cu Chi Fields by Richard E Barber">
+<img src="cuchifields.jpg" width="50%" alt="Cu Chi Fields by Richard E Barber">
 <figcaption>
 Cu Chi Fields, by Richard E Barber
 </figcaption>
@@ -305,7 +305,7 @@ If you have a camera that supports interchangeable lenses I suggest bringing thr
 When your subject is too close, or you want more environment, you need to use an ultra-wide. There will be times you are standing in front of something you want to photograph, but logistically you can't capture from further away, due to a variety of factors such as roadway traffic, or straying from your group.
 
 <figure>
-<img src="benthanh.jpg" alt="Ben Thanh Market by Richard E Barber">
+<img src="benthanh.jpg" width="50%" alt="Ben Thanh Market by Richard E Barber">
 <figcaption>
 Ben Thanh Market, by Richard E Barber
 </figcaption>
@@ -331,7 +331,7 @@ For APS-C format I recommend a 24mm pancake lens. It's only about an inch thick 
 To capture close-up detail and candid photography, I have to recommend going to 300mm.  They are longer than usual lenses which may turn a few heads, but the satisfaction can't be beaten.
 
 <figure>
-<img src="kem.jpg" alt="Ice Cream Dessert by Richard E Barber">
+<img src="kem.jpg" width="50%" alt="Ice Cream Dessert by Richard E Barber">
 <figcaption>
 Ice Cream Dessert, by Richard E Barber
 </figcaption>
@@ -347,7 +347,7 @@ Outlets in Vietnam accept both the two-pronged and two-bladed types of plugs. Ea
 I don't own anything that won't work both here and there: if you read the fine print on most of your power adapters and chargers, you will see they are nearly all compatible with both 120 and 240 Volts at 50 or 60Hz.  The first time I brought one of those international adapters, but quickly found it completely unnecessary.
 
 <figure>
-<img src="sunrise.jpg" alt="Cu Chi Sunset A by Richard E Barber">
+<img src="sunrise.jpg" width="50%" alt="Cu Chi Sunset A by Richard E Barber">
 <figcaption>
 Cu Chi Sunset A, by Richard E Barber
 </figcaption>
@@ -376,7 +376,7 @@ Get ready! Hop aboard your flight and remember to max out your luggage space wit
 *Does not exist here.* Topics that are up for discussion include: the economy, weather, food, and entertainment, but conversing about local or national politics is just not a thing here. Except for US politics; you will be surprised at the love. Last time I was here some Europeans gave me heat for who we elected president which was good for a hearty laugh. *Be a diplomat, not a pundit!*
 
 <figure>
-<img src="chaphanxisco.JPG" alt="Cha Phanxisco by Richard E Barber">
+<img src="chaphanxisco.JPG" width="50%" alt="Cha Phanxisco by Richard E Barber">
 <figcaption>
 Cha Phanxisco, by Richard E Barber
 </figcaption>
@@ -389,7 +389,7 @@ Cha Phanxisco, by Richard E Barber
 Yes, Vietnam is online.  When I first came, you could access the internet on a Pentium and CRT monitor in stinky cafes crowded with video game addicts. Loading mail.yahoo.com took three-and-one-half minutes to a half-hour. Logging in was a whole other ordeal, and then you got to your email. How frustrating that time was. If you are on FiOs at home and your router supports it, set up a Virtual Private Network (VPN) or simply subscribe to a VPN app on your device. That way you will be able to access the same network resources you have at home. Private IPv6 settings may interfere with your VPN settings resulting in service denials, so turn that feature off if possible.
 
 <figure>
-<img src="river.JPG" alt="Riverside life by Richard E Barber">
+<img src="river.JPG" width="50%" alt="Riverside life by Richard E Barber">
 <figcaption>
 Riverside life, by Richard E Barber
 </figcaption>
@@ -402,7 +402,7 @@ You will see many more tall cell phone towers than you do at home. You will also
 Most restaurants will have free wifi.  The password is often printed on a small plaque near the cash register, or you can just ask any staff for the "pass wifi".  As I travel, often I will be taking photos in between and at meals, so bouncing here and there from wifi to wifi is definitely a viable solution to buying SIM cards or activating your international data plan.
 
 <figure>
-<img src="sauce.jpg" alt="Chili Peppers by Richard E Barber">
+<img src="sauce.jpg" width="50%" alt="Chili Peppers by Richard E Barber">
 <figcaption>
 Chili Peppers, by Richard E Barber
 </figcaption>
@@ -416,7 +416,7 @@ o Do not photograph the police
 o	Do not photograph inside a department store
 
 <figure>
-<img src="fireants.jpg" alt="Fire Ants by Richard E Barber">
+<img src="fireants.jpg" width="50%" alt="Fire Ants by Richard E Barber">
 <figcaption>
 Fire Ants, by Richard E Barber
 </figcaption>
@@ -452,7 +452,7 @@ Pavingstones, by Richard E Barber
 As a historian, you may be interested to see those things which are considered tourist traps- the places which have been visited and photographed the most may not excite you however. Your guide may not realize that you are not interested in all the war museums. Be sure to communicate early on in the process, otherwise, you will bring back the same memories everyone else does. You really don't need to crawl through the Cu Chi tunnels to feel the terror of the early 1970s; you don't need to pull the trigger on their machine gun or take that same picture of the covered viper pit. Perhaps you would prefer to see truly amazing and photogenic things just a few miles away like the absolutely glorious Buddhist temple complex atop Nui Ba Den or the visually and sonically stunning Cao Dai Temple in Tay Ninh. In short, don't be the cause of your own disappointment. Learn about where you *really* want to photograph. 
 
 <figure>
-<img src="pond.jpg" alt="Fish Pond by Richard E Barber">
+<img src="pond.jpg" width="50%" alt="Fish Pond by Richard E Barber">
 <figcaption>
 A Fish Pond, by Richard E Barber
 </figcaption>
@@ -465,7 +465,7 @@ Vietnam has Uber now, it's an app called Grab. You can click a button and a non-
 It is possible to drive in Vietnam with a temporary permit issued by your local police station. For a motorcycle permit, you will have to do the figure-eight test for them. Is it necessary?  If you are driving around where traffic is complex, you may be more likely to make a mistake and be hailed to pull over, officially. **YOU DO NOT WANT TO BE PULLED OVER.** I recommend not operating any vehicles, or if you do, only operate in the countryside. In the city, there are copious rules about time periods where certain directions of traffic are disallowed on particular motorways, and it confuses even the local professional drivers. If you need to Go-Pro around, do it the right way and get your permit. Otherwise, just go along for the ride.
 
 <figure>
-<img src="familybike.jpg" width="50%"  alt="Family Bike by Richard E Barber">
+<img src="familybike.jpg" width="50%" alt="Family Bike by Richard E Barber">
 <figcaption>
 Family Bike, by Richard E Barber
 </figcaption>
@@ -478,7 +478,7 @@ There is a rainy season during our US summer, and a dry season during our winter
 I recommend a combination of 25% DEET (OFF! Deep Forest) and another insect repellant like Picaridin (OFF! Clean Feel).  32% DEET lotion also works well here.  15% DEET (OFF! Familycare) will not be strong enough for you. Sleep in an insecticidal mosquito net if possible. Remember to reapply repellents before hitting the sack, and pay close attention to your ankles.  I have had to sit in the hospital to get my bug bites drained, so really *don't skip this step*.
 
 <figure>
-<img src="cuchi-sunset.jpg" alt="Sunset in Cu Chi by Richard E Barber">
+<img src="cuchi-sunset.jpg" width="50%" alt="Sunset in Cu Chi by Richard E Barber">
 <figcaption>
 Sunset in Cu Chi, by Richard E Barber
 </figcaption>
