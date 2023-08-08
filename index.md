@@ -497,11 +497,15 @@ Click click click click click!
 Cá bầu (giant gourami fish), by Richard E Barber
 </figcaption>
 </figure>
----
 
+<hr>
+
+# In closing…
 > *The mistake people usually make when dealing with people of another culture is that they forget that they are dealing with human beings who have the same needs as themselves. If a person pays so much attention to the differences in the culture of other people, they will have difficulty recognizing all the similarities. If a person looks first to the common needs of other individuals, accidental differences of culture will tend to take care of themselves. If a person finds differences in behavior as something threatening to himself and his own security, he will find it very difficult to find common needs and desires among peoples of other cultures.*
 >
 > __Reflections on Vietnamese Culture__, circa 1987, United States Dept. of State, US Embassy Manila, Accession #[C05845477](https://foia.state.gov/DOCUMENTS/OctNov2016/F-2014-15073W7/DOC_0C05845477/C05845477.pdf)
-<br>
+
+<hr>
+
 <p style="text-align: center;">NNNN</p>
 <p style="text-align: center;">####</p>
