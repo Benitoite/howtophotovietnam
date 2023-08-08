@@ -414,9 +414,9 @@ Sống ở ven sông (riverside life), by Richard E Barber
 ##	Taboo
 *It's not* just about you! This applies to *everyone* for security reasons: there are really only a couple of things you mustn't attempt photographically that you will need to think about:
 
-o Do not photograph the police
+* Do not photograph the police
 
-o	Do not photograph inside a department store
+* Do not photograph inside a department store
 
 <figure>
 <img src="fireants.jpg" width="50%" alt="Fire Ants by Richard E Barber">
