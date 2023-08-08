@@ -96,7 +96,7 @@ Bún Quậy đặc sản Phú Quốc (Stirred noodles, Phu Quoc Island specialty
 <figure>
 <img src="majong.JPG" alt="Mat Chuoc game set by Richard E Barber">
 <figcaption>
-[Mạt chược](https://en.wikipedia.org/wiki/Mahjong) game set, by Richard E Barber
+<a href="https://en.wikipedia.org/wiki/Mahjong">Mạt chược</a> game set, by Richard E Barber
 </figcaption>
 </figure>
 
@@ -178,7 +178,7 @@ Chợ Bến Thành (Ben Thanh Market MMXVI), by Richard E Barber
 <figure>
 <img src="welcome.JPG" width="67%" alt="Welcome to Hà Tiên by Richard E Barber">
 <figcaption>
-Welcome to [Hà Tiên City](https://en.wikipedia.org/wiki/Hà_Tiên), by Richard E Barber
+Welcome to <a href="https://en.wikipedia.org/wiki/Hà_Tiên">Hà Tiên City</a>, by Richard E Barber
 </figcaption>
 </figure>
 
