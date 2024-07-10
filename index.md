@@ -169,8 +169,7 @@ Chợ Bến Thành (Ben Thanh Market MMXVI), by Richard E Barber
 </figure>
 
 <hr>
-
-> <mark>DISCLAIMER:</mark> The information provided in the following section is for **educational purposes only**, and does not substitute for professional medical advice. Always consult with your doctor/pharmacist/nurse-practitioner team when dealing with any medical situation you may endure.
+<mark>DISCLAIMER:</mark> The information provided in the following section is for **educational purposes only**, and does not substitute for professional medical advice. Always consult with your doctor/pharmacist/nurse-practitioner team when dealing with any medical situation you may endure.
 
 ##	Your medicine
 *The travel nurse* will ask if you would like to be prescribed a strong anti-diarrheal medication. Do not refuse this prescription, even if you think you have the strongest stomach in the world. The food will be different than what your body is familiar with and it will cause you some discomfort at times. Your luggage must include some over-the-counter remedies to be used if only to allow you to have a slightly more pleasant experience. However at the first sign of fever or severe discomfort, that prescription medicine will absolutely save your life.
@@ -266,7 +265,7 @@ Tân Huê Viên Truckstop, Sóc Trăng, by Richard E Barber
 *On a daily basis*, with a single-battery camera, I need to take two batteries and swap them mid-day.  With a [dual-battery vertical grip](https://www.bhphotovideo.com/c/search?q=Battery%20grip&sts=ma&usedSearch=1), I can record all day easily. The dual-battery grips are sensitive to voltage differences. If the two batteries are not at the exact same charge level, the camera assumes they are counterfeit and will shut down in order to prevent [starting a fire](https://www.powertoolinstitute.com/pti-pages/it-original-power-tool-batteries.asp).  When loading the camera with freshly-charged batteries, make sure the camera will function, otherwise, you will need to place each battery back into the charger for a while to ensure they are equal. Therefore it is best to use batteries paired by age. I use a silver Sharpie to mark my battery sets with letter pairs like "A" + "B".
 
 ####	Compatibility with cameras
-*I have found* that third-party batteries will work for a certain period, then lose their ability to hold a charge. Like your camera, the batteries should be from the Original Equipment Manufacturer. If you shoot Canon, buy Canon batteries. Don't be fooled into thinking you are saving money by purchasing multiple knockoff cheapos. It's quite the opposite. A pair of good authentic batteries will outlast knock-offs five or six times over.
+*I have found* that third-party batteries will work for a certain period, then lose their ability to hold a charge. Like your camera, the batteries should be from the Original Equipment Manufacturer. If you shoot Canon, buy Canon batteries. Don't be fooled into thinking you are saving money by purchasing multiple knockoff cheapos. It's quite the opposite. A pair of good authentic OEM batteries will outlast knock-offs five or six times over. That isn't to say there aren't decent compatible third-party batteries to be had, but to rely on a single set of untested power sources overseas would be most unwise.
 
 <figure>
 <img src="xatananhoi2.jpg" width="50%" alt="Tan An Hoi Commune Office by Richard E Barber">
@@ -389,7 +388,7 @@ Cha Phanxico (Fr. Francis), by Richard E Barber
 *Vietnam is diverse.* You are welcome here and your presence is appreciated and respected no matter what you are, if anything. Depending on where you are, do not be shocked to find a Church, Temple, and Mosque coexisting on the same street corner.
 
 ##	The internet
-*Yes*, Vietnam is online.  When I first came, you could access the internet on a Pentium and CRT monitor in stinky cafes crowded with video game addicts. Loading mail.yahoo.com took three-and-one-half minutes to a half-hour. Logging in was a whole other ordeal, and then you got to your email. How frustrating that time was. If you are on FiOs at home and your router supports it, set up a Virtual Private Network (VPN) or simply subscribe to a VPN app on your device. That way you will be able to access the same network resources you have at home. Private IPv6 settings may interfere with your VPN settings resulting in service denials, so turn that feature off if possible.
+*Yes*, Vietnam is online.  When I first came, you could access the internet on a Pentium and CRT monitor in stinky cafes crowded with video game addicts. Loading mail.yahoo.com took three-and-one-half minutes to a half-hour. Logging in was a whole other ordeal, and then you got to your email. How frustrating that time was. If you are on FiOs at home and your router supports it, set up a Virtual Private Network (VPN) or simply subscribe to a VPN app on your device. That way you will be able to access the same network resources you have at home. Private IPv6 settings may interfere with your VPN settings resulting in service denials, so turn that feature off if possible. My home network uses ddns.net, which is blocked here by DNS. The simplest solution is to use google's DNS servers, 8.8.8.8, and 8.8.4.4 while you are away.
 
 <figure>
 <img src="river.JPG" width="50%" alt="Riverside life by Richard E Barber">
